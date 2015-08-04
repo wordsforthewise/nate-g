@@ -10,7 +10,7 @@ image:
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
-# If you can measure it, you can manage it.
+### If you can measure it, you can manage it.
 
 That was something I heard a former Wal-Mart CEO, Mike Duke, say at the WSJ eco-nomics 2014 conference.  An important quantity to measure is our progress in life.
 
