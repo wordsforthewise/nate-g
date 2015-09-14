@@ -5,9 +5,9 @@ description: "How to measure your progress in life."
 modified: 2015-08-03
 tags: [sample post]
 image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: keep-calm-and-check-progress-wide-right.png
+  credit: freshgrade
+  creditlink: https://www.freshgrade.com/tip/project-progress-updates/
 ---
 
 ### If you can measure it, you can manage it.

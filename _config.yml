@@ -1,11 +1,11 @@
 title:            Nate G
 description:      Nate G's personal site
-disqus_shortname: nateG
+disqus_shortname: wordsforthewise
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
-# When testing locally leave blank or use http://localhost:4000
-url: //wordsforthewise.github.io
+# When testing locally leave blank or use http://localhost:4000 , for production: //wordsforthewise.github.io
+url: http://localhost:4000
 
 # Owner/author information
 owner:
@@ -17,12 +17,12 @@ owner:
   twitter:        
   facebook:       
   github:         wordsforthewise
-  stackexchange:  
-  linkedin:       
+  stackexchange:  http://stackexchange.com/users/5764261/wordsforthewise
+  linkedin:       https://www.linkedin.com/pub/nathan-george/1b/b7/224
   instagram:      
   flickr:         
   tumblr:         
-  google_plus:    +wordsforthewise
+  google_plus:    +NathanGeorge-aesir
 
 # Background image to be tiled on all pages
 background: bg2.png
