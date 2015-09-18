@@ -16,3 +16,8 @@ I just finished getting a camera through a <a href="http://wordsforthewise.githu
 ```python
 thresh = cv2.adaptiveThreshold(blur,255,1,1,11,2)
 ```
+uhhh...
+```python
+s = "Python syntax highlighting"
+print s
+```
