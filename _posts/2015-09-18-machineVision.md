@@ -16,3 +16,8 @@ I just finished getting a camera through a <a href="http://wordsforthewise.githu
 {% highlight python %}
 thresh = cv2.adaptiveThreshold(blur,255,1,1,11,2)
 {% endhighlight %}
+to this
+{% highlight python %}
+thresh = cv2.adaptiveThreshold(blur,255,0,1,25,-2)
+{% endhighlight %}
+The <a href="http://docs.opencv.org/modules/imgproc/doc/miscellaneous_transformations.html">docs</a> describe this function a bit, although I can't get the cv2.CV_ADAPTIVE_THRESH_MEAN_C to print, so I'm not entirely sure which adaptive_method I'm using (I think I changed it from gaussian, 1, to linear, 0).  I empirically found the higher block size and lower constant seem to work best for this image.  After that, it <a href="images/yay.png">works well</a>.
