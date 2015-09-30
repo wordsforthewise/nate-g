@@ -18,11 +18,13 @@ You can make a DIY air quality monitor (AQM) for about $20.  You can add interne
 
 To do this, you will need:
 
-arduino (I used a nano)
-LCD display (I used a 1602 16x2 HD44780 Character LCD /w IIC/I2C Serial Interface Adapter Module)
-Shinyei PPD42NS device
-Some female-female jumper cables
-USB power adapter if you want to plug it into the wall
+<ul>
+<li>arduino (I used a nano)</li>
+<li>LCD display (I used a 1602 16x2 HD44780 Character LCD /w IIC/I2C Serial Interface Adapter Module)</li>
+<li>Shinyei PPD42NS device</li>
+<li>Some female-female jumper cables</li>
+<li>USB power adapter if you want to plug it into the wall</li>
+<\ul>
 
 ### Setup
 
