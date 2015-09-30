@@ -75,7 +75,7 @@ void loop()
     delay(2000);
 }
 
-{% endhighight %}
+{% endhighlight %}
 
 Once you have that working, construct the container for the sensor.  We need to be able to hold the particle senser upright since it uses a resistor to create a hot-air draft for an air flow.  
 
@@ -84,7 +84,8 @@ Finally, connect the Shinyei PPD42NS sensor, and upload this code:
 {% highlight c++ %}
 
 
-{% endhighight %}
+
+{% endhighlight %}
 
 This will measure the number of particles >1 micron in 0.01 cubic feet, and update the reported value on the screen every 30s.  On the second line, it will translate that value into a meaninful description, like horrible, good, excellent, etc.
 
