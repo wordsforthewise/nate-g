@@ -25,7 +25,12 @@ You can make a DIY air quality monitor (AQM) for about $20.  You can add interne
 
 Tiny particles in the air, generated from cars, trucks, powerplants, industry, and even cooking at home, are causing cancer, heart attacks, and premature death among other ailments.  It's only getting worse as our population grows and demands more transportation and energy.  Particularly dangerous are the tiny particulates less than 10 microns in size, especially those less than 2.5 microns in diameter (PM2.5).  These are about 100 times smaller than the width of a human hair, and can pass directly into the bloodstream, increasing risks for diseases like cancer and heart disease, among other things.  [An increase in concentration of PM2.5 by 10 ug/m3 (micrograms per meter cubed) equates to a 36% increase in lung cancer!](http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045%2813%2970279-1/abstract)  The national average of PM2.5 in the US is about this value.
 
-The scary thing is, the exhaust from combustion engines (cars, trucks, lawnmowers, weedwhackers, farm and industry equipment) actually spews a TON of very tiny particles that are very difficult and expensive to detect.  
+The scary thing is, the exhaust from combustion engines (cars, trucks, lawnmowers, weedwhackers, farm and industry equipment) actually spews a TON of very tiny particles that are very difficult and expensive to detect.  Here's a plot from a scientific paper, showing a distribution of exhaust from a diesel engine:
+
+![diesel emissions.png]({{site.baseurl}}/_posts/diesel emissions.png)
+
+Most of the particles are in the range of 0.01 to 0.1 micron!  [That's so tiny it can actually pass right through your skin into your bloodstream.](http://www.ncbi.nlm.nih.gov/pubmed/16614727)  Whoa!
+
 
 In the summer of 2014, I started having sinus headaches and other sinus/mucuous issues.
 
