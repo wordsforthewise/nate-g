@@ -18,7 +18,6 @@ published: true
 
 
 ### Summary
-{{site.baseurl}}
 
 You can make a DIY air quality monitor (AQM) for about $20.  You can add internet datalogging for another few bucks.  This will give you a rough measurement of the air quality of your environment, and can help you determine if you should do anything about it (get an air filter, etc).
 
@@ -28,11 +27,11 @@ Tiny particles in the air, generated from cars, trucks, powerplants, industry, a
 
 The scary thing is, the exhaust from combustion engines (cars, trucks, lawnmowers, weedwhackers, farm and industry equipment) actually spews a TON of very tiny particles that are very difficult and expensive to detect.  Here's a plot from a [scientific paper](http://www.sciencedirect.com/science/article/pii/S0048969799002144), showing a distribution of exhaust from a diesel engine:
 
-![diesel emissions.png](/_posts/diy-aqm/diesel emissions.png)
+![diesel emissions.png](/images/diy-aqm/diesel emissions.png)
 
 Most of the particles are in the range of 0.01 to 0.1 micron!  [That's so tiny it can actually penetrate your skin.](http://www.ncbi.nlm.nih.gov/pubmed/16614727)  Whoa!
 
-![surprised-monkey.jpg](/_posts/surprised-monkey.jpg)
+![surprised-monkey.jpg](/images/surprised-monkey.jpg)
 
 In the summer of 2014, I started having sinus headaches and other sinus/mucuous issues.
 
