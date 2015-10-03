@@ -31,6 +31,7 @@ The scary thing is, the exhaust from combustion engines (cars, trucks, lawnmower
 
 Most of the particles are in the range of 0.01 to 0.1 micron!  [That's so tiny it can actually pass right through your skin into your bloodstream.](http://www.ncbi.nlm.nih.gov/pubmed/16614727)  Whoa!
 
+![surprised-monkey.jpg]({{site.baseurl}}/_posts/surprised-monkey.jpg)
 
 In the summer of 2014, I started having sinus headaches and other sinus/mucuous issues.
 
