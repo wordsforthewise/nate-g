@@ -35,7 +35,8 @@ Most of the particles are in the range of 0.01 to 0.1 micron!  [That's so tiny i
 
 In the summer/fall of 2014, I started having sinus headaches and other sinus/mucuous issues.  At the time I thought my air quality might have something to do with it (it was actually mostly from chemical air pollution in a solar cell factory I worked in), so I started researching how to measure it.  Turns out the cheapest devices are cost around $200+ (the nifty [Speck](http://store.specksensor.com/products/speck) sensor, the [Dylos sensor](http://www.amazon.com/Dylos-DC1100-Standard-Quality-Monitor/dp/B000XG8XCI/ref=sr_1_4?ie=UTF8&qid=1443847115&sr=8-4&keywords=dylos) that was available at the time, and the [Aircasting device](aircasting.org)).
 
-After some google-y googling, [I found this post](http://www.howmuchsnow.com/arduino/airquality/grovedust/), which described how to set up a DIY particulate monitor based on the Shinyei PPD42NS sensor.  The following are instructions on how to build your own, with a live display.
+After some google-y googling, [I found this post](http://www.howmuchsnow.com/arduino/airquality/grovedust/), which described how to set up a DIY particulate monitor based on the Shinyei PPD42NS sensor.  It measures the number of particles greater than 1 micron in diameter in 0.01 cubic foot, the same number measured by the $200+ Dylos laser-counting machine.  Great, we have a number.  In the words of [Lord Kelvin](https://en.wikiquote.org/wiki/William_Thomson):
+> I often say that when you can measure what you are speaking about, and express it in numbers, you know something about it; but when you cannot measure it, when you cannot express it in numbers, your knowledge is of a meagre and unsatisfactory kind; it may be the beginning of knowledge, but you have scarcely, in your thoughts, advanced to the stage of science, whatever the matter may be.
 
 ### Parts
 
