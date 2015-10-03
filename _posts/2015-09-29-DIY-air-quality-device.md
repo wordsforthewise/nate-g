@@ -27,7 +27,7 @@ Tiny particles in the air, generated from cars, trucks, powerplants, industry, a
 
 The scary thing is, the exhaust from combustion engines (cars, trucks, lawnmowers, weedwhackers, farm and industry equipment) actually spews a TON of very tiny particles that are very difficult and expensive to detect.  Here's a plot from a scientific paper, showing a distribution of exhaust from a diesel engine:
 
-![diesel emissions.png]({{site.baseurl}}/_posts/diesel emissions.png)
+![diesel emissions.png]({{site.baseurl}}/_posts/diy-aqm/diesel emissions.png)
 
 Most of the particles are in the range of 0.01 to 0.1 micron!  [That's so tiny it can actually pass right through your skin into your bloodstream.](http://www.ncbi.nlm.nih.gov/pubmed/16614727)  Whoa!
 
