@@ -38,6 +38,12 @@ In the summer/fall of 2014, I started having sinus headaches and other sinus/muc
 After some google-y googling, [I found this post](http://www.howmuchsnow.com/arduino/airquality/grovedust/), which described how to set up a DIY particulate monitor based on the Shinyei PPD42NS sensor.  It measures the number of particles greater than 1 micron in diameter in 0.01 cubic foot, the same number measured by the $200+ Dylos laser-counting machine.  Great, we have a number.  In the words of [Lord Kelvin](https://en.wikiquote.org/wiki/William_Thomson):
 > I often say that when you can measure what you are speaking about, and express it in numbers, you know something about it; but when you cannot measure it, when you cannot express it in numbers, your knowledge is of a meagre and unsatisfactory kind; it may be the beginning of knowledge, but you have scarcely, in your thoughts, advanced to the stage of science, whatever the matter may be.
 
+So at least we're not meagre anymore.  But what does that number mean?  Dylos has a scale on their devices which gives regimes of air quality, but it seems to be to be overly strict.  The[EPA/NAAQS has also put up a list of air quality regimes](http://www3.epa.gov/airquality/particlepollution/2012/decfsstandards.pdf), though of course they are grossly inadequate.  By the time you've passed from 'good' to 'moderate' air quality by their standards (at 12 ug/m3), you've already increased your risk of lung cancer by about 40%!  I think they may have picked a number that would be reasonable for most US cities to attain as their threshold for a law (the 12 ug/m3), since the national average is somewhere around 10 ug/m3.  
+
+So the number in the cancer study and widely used for regulation is ug/m3 (micrograms per cubic meter), but the device we're going to build measures number of particles greater than 1 micron in size.  How can we reconcile this?  Thankfully, some nice guys at [Aircasting](aircasting.org) [created a correlation between mass and particle counts, using cooking smoke as a basis](https://dl.dropboxusercontent.com/u/29720355/Besser%20Thesis%20FINAL.pdf).  Regardless, here is a plot of % increase of lung cancer odds with the EPA standards:
+
+and now here are the Dylos standards:
+
 ### Parts
 
 To do this, you will need:
