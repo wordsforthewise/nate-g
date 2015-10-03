@@ -17,6 +17,7 @@ published: true
 
 
 
+
 ### Summary
 
 Fine particulate matter in the air from cars and trucks, cooking, fires, and industry can give you cancer, heart attacks, and shorten your lifespan.  Poor air quality can have a number of other bad effects.  You can make a DIY air quality monitor (AQM) for about $20 that can warn you of poor air quality.  You can add internet datalogging for another few bucks.  This will give you a rough measurement of the air quality of your environment, and can help you determine if you should do anything about it (get an air filter, etc).
@@ -44,11 +45,11 @@ So the number in the cancer study and widely used for regulation is ug/m3 (micro
 
 Here is a plot of % increase of lung cancer odds with the EPA standards:
 
-[in progress]
+![dylos plot.png](/images/dylos%20plot.jpg)
 
 and now here are the Dylos standards:
 
-[in progress]
+![overall plot.png](/images/overall%20plot.jpg)
 
 While I was in the Bay Area, I usually measured values of 1000 to 4000 1 um-or-larger particles in 0.01 ft3, corresponding to about 2 to 12 ug/m3 PM2.5.  Recently in Boulder/Golden, CO, I consistently measured values 2000-2500 1 um-or-larger particles per 0.01ft3, about 3 to 5 ug/m3 PM2.5.  So while the numbers aren't too terrible, the increased chances of getting lung cancer from breathing that type of air regurlary is in the double digits.  Near my parents' house in Elkhorn, NE, the air quality is usually about 200 1 um-or-larger particles per 0.01ft3, or about 0.3 ug/m3 PM2.5.
 
