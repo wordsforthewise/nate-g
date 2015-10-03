@@ -19,11 +19,11 @@ published: true
 
 ### Summary
 
-You can make a DIY air quality monitor (AQM) for about $20.  You can add internet datalogging for another few bucks.  This will give you a rough measurement of the air quality of your environment, and can help you determine if you should do anything about it (get an air filter, etc).
+Fine particulate matter in the air from cars and trucks, cooking, fires, and industry can give you cancer, heart attacks, and shorten your lifespan.  Poor air quality can have a number of other bad effects.  You can make a DIY air quality monitor (AQM) for about $20 that can warn you of poor air quality.  You can add internet datalogging for another few bucks.  This will give you a rough measurement of the air quality of your environment, and can help you determine if you should do anything about it (get an air filter, etc).
 
 ### Background
 
-Tiny particles in the air, generated from cars, trucks, powerplants, industry, and even cooking at home, are causing cancer, heart attacks, and premature death among other ailments.  It's only getting worse as our population grows and demands more transportation and energy.  Particularly dangerous are the tiny particulates less than 10 microns in size, especially those less than 2.5 microns in diameter (PM2.5).  These are about 100 times smaller than the width of a human hair, and can pass directly into the bloodstream, increasing risks for diseases like cancer and heart disease, among other things.  [An increase in concentration of PM2.5 by 10 ug/m3 (micrograms per meter cubed) equates to a 36% increase in lung cancer!](http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045%2813%2970279-1/abstract)  The national average of PM2.5 in the US is about this value.
+Tiny particles in the air, generated from cars, trucks, powerplants, industry, and even cooking at home, are causing cancer, heart attacks, and premature death among other ailments.  It's only getting worse as our population grows and demands more transportation and energy.  Particularly dangerous are the tiny particulates less than 10 microns in size, especially those less than 2.5 microns in diameter (PM2.5).  These are about 100 times smaller than the width of a human hair, and can pass directly into the bloodstream, increasing risks for diseases like cancer and heart disease, among other things.  [An increase in concentration of PM2.5 by 10 ug/m3 (micrograms per meter cubed) equates to a 36% increase in lung cancer!](http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045%2813%2970279-1/abstract)  [Coincidentally, the national average of PM2.5 in the US is about this value.](http://wwwn.cdc.gov/CommunityHealth/profile/currentprofile/CA/Orange/310019)
 
 The scary thing is, the exhaust from combustion engines (cars, trucks, lawnmowers, weedwhackers, farm and industry equipment) actually spews a TON of very tiny particles that are very difficult and expensive to detect.  Here's a plot from a [scientific paper](http://www.sciencedirect.com/science/article/pii/S0048969799002144), showing a distribution of exhaust from a diesel engine:
 
@@ -33,7 +33,9 @@ Most of the particles are in the range of 0.01 to 0.1 micron!  [That's so tiny i
 
 ![surprised-monkey.jpg](/images/surprised-monkey.jpg)
 
-In the summer of 2014, I started having sinus headaches and other sinus/mucuous issues.  At the time I thought my air quality might have something to do with it, so I started researching how to measure it.  Turns out the cheapest devices are all around $200 (the nifty [Speck](http://store.specksensor.com/products/speck) sensor, the [Dylos sensor](http://www.amazon.com/Dylos-DC1100-Standard-Quality-Monitor/dp/B000XG8XCI/ref=sr_1_4?ie=UTF8&qid=1443847115&sr=8-4&keywords=dylos) that was available at the time, and the [Aircasting device](aircasting.org)).
+In the summer/fall of 2014, I started having sinus headaches and other sinus/mucuous issues.  At the time I thought my air quality might have something to do with it (it was actually mostly from chemical air pollution in a solar cell factory I worked in), so I started researching how to measure it.  Turns out the cheapest devices are cost around $200+ (the nifty [Speck](http://store.specksensor.com/products/speck) sensor, the [Dylos sensor](http://www.amazon.com/Dylos-DC1100-Standard-Quality-Monitor/dp/B000XG8XCI/ref=sr_1_4?ie=UTF8&qid=1443847115&sr=8-4&keywords=dylos) that was available at the time, and the [Aircasting device](aircasting.org)).
+
+After some google-y googling, [I found this post](http://www.howmuchsnow.com/arduino/airquality/grovedust/), which described how to set up a DIY particulate monitor based on the Shinyei PPD42NS sensor.  The following are instructions on how to build your own, with a live display.
 
 ### Parts
 
