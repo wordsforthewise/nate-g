@@ -45,11 +45,13 @@ So the number in the cancer study and widely used for regulation is ug/m3 (micro
 
 Here is a plot of % increase of lung cancer odds with the EPA standards:
 
-![dylos plot.png]({{site.baseurl}}/images/diy-aqm/dylos plot.png)
+![dylos plot.png](/images/diy-aqm/dylos plot.png)
 
 and now here are the Dylos standards:
 
-![overall plot.png]({{site.baseurl}}/images/diy-aqm/overall plot.png)
+![overall plot.png](/images/diy-aqm/overall plot.png)
+
+You'll notice the Dylos standards are on a completely different order of magnitude.  Probably somewhere in between the Dylos standards and those of the EPA is best, although I would weight it closer to the Dylos standards.  When the number of 1um particle counts get above 1000, I definately notice it in my breathing--my nose starts getting stuffed up.
 
 While I was in the Bay Area, I usually measured values of 1000 to 4000 1 um-or-larger particles in 0.01 ft3, corresponding to about 2 to 12 ug/m3 PM2.5.  Recently in Boulder/Golden, CO, I consistently measured values 2000-2500 1 um-or-larger particles per 0.01ft3, about 3 to 5 ug/m3 PM2.5.  So while the numbers aren't too terrible, the increased chances of getting lung cancer from breathing that type of air regurlary is in the double digits.  Near my parents' house in Elkhorn, NE, the air quality is usually about 200 1 um-or-larger particles per 0.01ft3, or about 0.3 ug/m3 PM2.5.
 
