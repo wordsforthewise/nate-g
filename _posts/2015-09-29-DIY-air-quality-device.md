@@ -33,7 +33,7 @@ Most of the particles are in the range of 0.01 to 0.1 micron!  [That's so tiny i
 
 ![surprised-monkey.jpg](/images/surprised-monkey.jpg)
 
-In the summer of 2014, I started having sinus headaches and other sinus/mucuous issues.
+In the summer of 2014, I started having sinus headaches and other sinus/mucuous issues.  At the time I thought my air quality might have something to do with it, so I started researching how to measure it.  Turns out the cheapest devices are all around $200 (the nifty [Speck](http://store.specksensor.com/products/speck) sensor, the [Dylos sensor](http://www.amazon.com/Dylos-DC1100-Standard-Quality-Monitor/dp/B000XG8XCI/ref=sr_1_4?ie=UTF8&qid=1443847115&sr=8-4&keywords=dylos) that was available at the time, and the [Aircasting device](aircasting.org)).
 
 ### Parts
 
