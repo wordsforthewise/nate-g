@@ -16,9 +16,18 @@ published: true
 ---
 
 
+
 ### Summary
 
 You can make a DIY air quality monitor (AQM) for about $20.  You can add internet datalogging for another few bucks.  This will give you a rough measurement of the air quality of your environment, and can help you determine if you should do anything about it (get an air filter, etc).
+
+### Background
+
+Tiny particles in the air, generated from cars, trucks, powerplants, industry, and even cooking at home, are causing cancer, heart attacks, and premature death among other ailments.  It's only getting worse as our population grows and demands more transportation and energy.  Particularly dangerous are the tiny particulates less than 10 microns in size, especially those less than 2.5 microns in diameter (PM2.5).  These are about 100 times smaller than the width of a human hair, and can pass directly into the bloodstream, increasing risks for diseases like cancer and heart disease, among other things.  An increase in concentration of PM2.5 by 10 ug/m3 (micrograms per meter cubed) equates to a 36% increase in lung cancer!  The national average of PM2.5 in the US is about this value.
+
+The scary thing is, the exhaust from combustion engines (cars, trucks, lawnmowers, weedwhackers, farm and industry equipment) actually spews a TON of very tiny particles that are very difficult and expensive to detect.  
+
+In the summer of 2014, I started having sinus headaches and other sinus/mucuous issues.
 
 ### Parts
 
