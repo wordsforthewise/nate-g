@@ -52,7 +52,7 @@ and now here are the Dylos standards:
 
 While I was in the Bay Area, I usually measured values of 1000 to 4000 1 um-or-larger particles in 0.01 ft3, corresponding to about 2 to 12 ug/m3 PM2.5.  Recently in Boulder/Golden, CO, I consistently measured values 2000-2500 1 um-or-larger particles per 0.01ft3, about 3 to 5 ug/m3 PM2.5.  So while the numbers aren't too terrible, the increased chances of getting lung cancer from breathing that type of air regurlary is in the double digits.  Near my parents' house in Elkhorn, NE, the air quality is usually about 200 1 um-or-larger particles per 0.01ft3, or about 0.3 ug/m3 PM2.5.
 
-Inside your house, you're shedding millions of skin cells per minute all the time, and walking around generates a bunch of dust in other ways--like making allergens from dust mites (feeding on your dead skin cells) go airborne.  W[ikipedia has more good info on particulates.](https://en.wikipedia.org/wiki/Particulates)  Now I'll show you how you can build your own sensor, which will tell you real time numbers--watch as the value goes up when you fry things, or even walk around!   
+Inside your house, you're shedding millions of skin cells per minute all the time, and walking around generates a bunch of dust in other ways--like making allergens from dust mites (feeding on your dead skin cells) go airborne.  [Wikipedia has more good info on particulates.](https://en.wikipedia.org/wiki/Particulates)  Now I'll show you how you can build your own sensor, which will tell you real time numbers--watch as the value goes up when you fry things, or even walk around!   
 
 ### Parts
 
