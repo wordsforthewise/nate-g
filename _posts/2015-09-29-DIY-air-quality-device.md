@@ -15,11 +15,6 @@ image:
 published: true
 ---
 
-
-
-
-
-
 ### Summary
 
 Fine particulate matter in the air from cars and trucks, cooking, fires, and industry can give you cancer, heart attacks, and shorten your lifespan.  Poor air quality can have a number of other bad effects.  You can make a DIY air quality monitor (AQM) for about $20 that can warn you of poor air quality.  You can add internet datalogging for another few bucks.  This will give you a rough measurement of the air quality of your environment, and can help you determine if you should do anything about it (get an air filter, etc).
@@ -78,7 +73,7 @@ To do this, you will need:
 
 First, get your LCD working.  There's a few guides (<a href="http://blog.mklec.com/how-to-use-iici2c-serial-interface-module-for-1602-lcd-display/">[1]</a>, <a href="http://tronixlabs.com/news/tutorial-serial-i2c-backpack-for-hd44780compatible-lcd-modules-with-arduino/">[2]</a>, <a href="http://arduino-info.wikispaces.com/LCD-Blue-I2C">[3]</a>) I found out there to help, but first, solder on the I2C adapter to the LCD in the correct fashion:
 
-![2015-09-30 18.06.45.jpg]({{site.baseurl}}/_posts/2015-09-30 18.06.45.jpg)
+![crappy soldering.jpg](/images/diy-aqm/crappy soldering.jpg)
 
 This cheap ol' chinese solder I have doesn't wet surfaces well for some reason.  Oh well, better solder is in the mail and this works well enough.
 
