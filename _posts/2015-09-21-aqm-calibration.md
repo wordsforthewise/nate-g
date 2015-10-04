@@ -25,9 +25,9 @@ I built a small test setup, basically a stand for the Shinyei or Samyoung, with 
 The [Samyoung datasheet](https://github.com/wordsforthewise/ESP-8266-particle-sensor/blob/master/spec%20sheets/DSM501%20spec%20sheet.pdf) gives a [correlation](https://github.com/wordsforthewise/ESP-8266-particle-sensor/blob/master/spec%20sheets/DSM501A%20ratio%20to%20particle-001%20ft3.png), but it only has data for over 2500 particles/0.01 ft3.  After running some tests, I found the correlation could be extended into the finer resolution range.  From the datasheet, the correlation is linear:
 ![samyoung correlation.png](/images/aqm-calibration/samyoung correlation.png)
 
-And the correlation from my tests was similar, about y = 630x ,compared with y = 620x from my correlations.
+And the correlation from my tests was similar to the datasheet correlation(y = 630x): mine was y = 620x.
 
-![corr.png](/images/aqm-calibration/corr.png)
+![corr.png](/images/aqm-calibration/corr.png) {: .center-image }
 
 Here's a comparison of the data from the Samyoung to data from a Dylos DC1700--pretty good agreement, for a sub-$10 sensor.  That data was taken every 15 seconds.
 
