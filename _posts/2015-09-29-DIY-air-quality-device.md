@@ -48,13 +48,15 @@ So the number in the cancer study and widely used for regulation is ug/m3 (micro
 
 Here is a plot of % increase of lung cancer odds with the EPA standards:
 
-![dylos plot.png](/images/diy-aqm/dylos plot.png)
+![dylos plot.png](/images/diy-aqm/overall plot.png)
 
-and now here are the Dylos standards:
+the line is the number of particles per 0.01 ft3.
 
-![overall plot.png](/images/diy-aqm/overall plot.png)
+Now here are the Dylos standards:
 
-You'll notice the Dylos standards are on a completely different order of magnitude.  Probably somewhere in between the Dylos standards and those of the EPA is best, although I would weight it closer to the Dylos standards.  When the number of 1um particle counts get above 1000, I definately notice it in my breathing--my nose starts getting stuffed up.
+![overall plot.png](/images/diy-aqm/dylos plot.png)
+
+You'll notice the Dylos standards are on a completely different order of magnitude from the EPA. They Dylos 'very poor' regime starts at around 1.7 ug/m3 PM2.5, while the EPA moderate starts at 12!  The EPA 'very poor' equivalent, which I would say is 'very unhealthy', starts at 150 ug/m3, which is an astounding 100x the Dylos standards.  Having been in an environment with >=1um particle counts of 5000 to 15000 (metalworking workshop at [Factor-e-Farms a.k.a. open source ecology](opensourceecology.org)) where my mucus was turned black, and a kitchen with burning bacon grease and a count of 25,000 particles, I would say quadrupling the Dylos scale is probably legit.  When the number of 1um particle counts get above 1000, I definately notice it in my breathing--my nose starts getting stuffed up.  At the 25,000 1um-and-larger particle counts (66 ug/m3 PM2.5, on the lower side of 'unhealthy' on the EPA scale) in the kitchen, the whole house was filled with smoke and the view over 10m was hazy.
 
 While I was in the Bay Area, I usually measured values of 1000 to 4000 1 um-or-larger particles in 0.01 ft3, corresponding to about 2 to 12 ug/m3 PM2.5.  Recently in Boulder/Golden, CO, I consistently measured values 2000-2500 1 um-or-larger particles per 0.01ft3, about 3 to 5 ug/m3 PM2.5.  So while the numbers aren't too terrible, the increased chances of getting lung cancer from breathing that type of air regurlary is in the double digits.  Near my parents' house in Elkhorn, NE, the air quality is usually about 200 1 um-or-larger particles per 0.01ft3, or about 0.3 ug/m3 PM2.5.
 
