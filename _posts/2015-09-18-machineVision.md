@@ -3,7 +3,7 @@ layout: post
 title: Python machine vision
 description: "Using machine vision to get data from an LCD."
 modified: 2015-09-18
-tags: [cameras, machine vision, pythohn, McGuyver]
+tags: [cameras, machine vision, python, McGuyver]
 image:
   feature: MV.jpg
   credit: me
