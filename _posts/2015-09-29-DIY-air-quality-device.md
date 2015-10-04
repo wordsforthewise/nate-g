@@ -67,7 +67,7 @@ To do this, you will need:
 <li>Shinyei PPD42NS device</li>
 <li>Some female-female jumper cables</li>
 <li>USB power adapter if you want to plug it into the wall</li>
-<\ul>
+</ul>
 
 ### Setup
 
