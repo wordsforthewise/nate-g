@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Calibratin' air quality monitors
-description: "Calibration of particulate sensors."
+title: New particulate sensors
+description: "Some new particulate sensors."
 modified: 2015-09-18
 tags: [AQM, air quality, sensors, science]
 image:
-  feature: ylantower.jpg
+  feature: plantower.jpg
   credit: me
   creditlink: http://wordsforthewise.github.io
 ---
