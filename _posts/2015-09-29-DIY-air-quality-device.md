@@ -19,6 +19,7 @@ published: true
 
 
 
+
 ### Summary
 
 Fine particulate matter in the air from cars and trucks, cooking, fires, and industry can give you cancer, heart attacks, and shorten your lifespan.  Poor air quality can have a number of other bad effects.  You can make a DIY air quality monitor (AQM) for about $20 that can warn you of poor air quality.  You can add internet datalogging for another few bucks.  This will give you a rough measurement of the air quality of your environment, and can help you determine if you should do anything about it (get an air filter, etc).
@@ -41,7 +42,7 @@ After some google-y googling, [I found this post](http://www.howmuchsnow.com/ard
 
 "I often say that when you can measure what you are speaking about, and express it in numbers, you know something about it; but when you cannot measure it, when you cannot express it in numbers, your knowledge is of a meagre and unsatisfactory kind; it may be the beginning of knowledge, but you have scarcely, in your thoughts, advanced to the stage of science, whatever the matter may be."
 
-So at least we're not meagre anymore.  But what does that number mean?  Dylos has a scale on their devices which gives regimes of air quality, but it seems to be to be overly strict.  The [EPA/NAAQS has also put up a list of air quality regimes](http://www3.epa.gov/airquality/particlepollution/2012/decfsstandards.pdf), though of course they are grossly inadequate.  By the time you've passed from 'good' to 'moderate' air quality by their standards (at 12 ug/m3), you've already increased your risk of lung cancer by about 40%!  I think they may have picked a number that would be reasonable for most US cities to attain as their threshold for a law (the 12 ug/m3), since the national average is somewhere around 10 ug/m3.  
+So at least we're not meagre anymore.  But what does that number mean?  Dylos has a scale on their devices which gives regimes of air quality, but it seems to be to be overly strict.  The [EPA/NAAQS has also put up a list of air quality regimes](http://www3.epa.gov/airquality/particlepollution/2012/decfsstandards.pdf), though of course they are grossly inadequate.  By the time you've passed from 'good' to 'moderate' air quality by their standards (at 12 ug/m3 PM2.5), you've already increased your risk of lung cancer by about 40%!  I think they may have picked a number that would be reasonable for most US cities to attain as their threshold for a law (the 12 ug/m3), since the national average is somewhere around 10 ug/m3 PM2.5.  
 
 So the number in the cancer study and widely used for regulation is ug/m3 (micrograms per cubic meter), but the device we're going to build measures number of particles greater than 1 micron in size.  How can we reconcile this?  Thankfully, Alex Besser with [Aircasting](aircasting.org) [created a correlation between mass and particle counts, using cooking smoke as a basis](https://dl.dropboxusercontent.com/u/29720355/Besser%20Thesis%20FINAL.pdf) (it's a 4th-degree polynomial, on page 24).  
 
@@ -133,7 +134,10 @@ Finally, connect the Shinyei PPD42NS sensor, and upload [mah code from github](h
 
 This will measure the number of particles >1 micron in 0.01 cubic feet, and update the reported value on the screen every 30s.  On the second line, it will translate that value into a meaninful description, like horrible, good, excellent, etc.
 
-Next, add <a href="">datalogging</a>.
+Next, add datalogging.  Here are the options I have for doing this right now:
+
+* connect the device to a computer via usb, and use a Python script to upload the data to sparkfun or thingspeak. [Here's some demo code for posting to sparkfun from a Shinyei PPD42NS and a Dylos sensor](https://github.com/wordsforthewise/shinyei-ppd42ns-arduino)
+* connect the arduino to an esp8266, nrf24, or particle spark, and upload the data online. [Here's some demo code for a esp8266 running NodeMCU.](https://github.com/wordsforthewise/ESP-8266-particle-sensor/tree/master/arduino%2Besp01)  You can also use the AT commands (which I don't really like), [example here](https://github.com/wordsforthewise/ESP-8266-particle-sensor/tree/master/arduino%2Besp01/dust_monitor_3.0_-_with_LED_mva_and_wifi-ESP8266-ATcommands).
 
 ### Details
 
