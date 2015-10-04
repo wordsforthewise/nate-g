@@ -75,7 +75,7 @@ First, get your LCD working.  There's a few guides (<a href="http://blog.mklec.c
 
 ![crappy soldering.jpg](/images/diy-aqm/crappy soldering.jpg)
 
-This cheap ol' chinese solder I have doesn't wet surfaces well for some reason.  Oh well, better solder is in the mail and this works well enough.
+This cheap ol' chinese solder I have doesn't wet surfaces well for some reason, even after heating the pan and pin for 10s.  Oh well.
 
 Next make sure you can get the display up and working.  The example websites I found describe a way to do it using an older version of the <a href="https://bitbucket.org/fmalpartida/new-liquidcrystal/downloads">LiquidCrystal library</a> (1.2.1), which will work.  It also seems to work with the latest version (1.3.2).  To install, download the zip file, unzip into your Arduino libraries folder (for me it was C:\Users\Nate\Documents\Arduino\libraries), then rename it to 'LiquidCrystal'.
 Make sure to close your Arduino IDE program if open, and restart it to refresh the directory cache.  I used the example given from mklec.com, with small modifications:
