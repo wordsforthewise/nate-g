@@ -29,7 +29,7 @@ And the correlation from my tests was similar, about y = 630x ,compared with y =
 
 ![corr.png](/images/aqm-calibration/corr.png)
 
-However, this correlation doesn't do well at low counts--so I fit a 2nd order equation to it, which seems to work better.  The second order equation is 
+Here's a comparison of the data from the Samyoung to data from a Dylos DC1700--pretty good agreement, for a sub-$10 sensor.  That data was taken every 15 seconds.
 
 ![compare.png](/images/aqm-calibration/compare.png)
 
