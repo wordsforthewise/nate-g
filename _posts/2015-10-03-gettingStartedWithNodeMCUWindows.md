@@ -5,7 +5,7 @@ description: "Using NdoeMCU to program an ESP8266 NodeMCU devkit."
 modified: 2015-10-03
 tags: [nodeMCU, esp8266, IoT, programming]
 image:
-  feature: nodeMCU-kit.jpg
+  feature: nodemcu-kit.jpg
   credit: me
   creditlink: http://wordsforthewise.github.io
 ---
