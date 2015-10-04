@@ -5,7 +5,7 @@ description: "Some new particulate sensors."
 modified: 2015-09-18
 tags: [AQM, air quality, sensors, science]
 image:
-  feature: plantower.jpg
+  feature: plantower.png
   credit: me
   creditlink: http://wordsforthewise.github.io
 ---
