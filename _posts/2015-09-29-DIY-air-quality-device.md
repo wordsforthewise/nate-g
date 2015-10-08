@@ -18,6 +18,7 @@ published: true
 
 
 
+
 ### Summary
 
 Fine particulate matter in the air from cars and trucks, cooking, fires, and industry can give you cancer, heart attacks, and shorten your lifespan.  Poor air quality can have a number of other bad effects.  You can make a DIY air quality monitor (AQM) for about $20 that can warn you of poor air quality.  You can add internet datalogging for another few bucks.  This will give you a rough measurement of the air quality of your environment, and can help you determine if you should do anything about it (get an air filter, etc).
@@ -30,9 +31,9 @@ Tiny particles in the air, generated from cars, trucks, powerplants, industry, a
 
 the rates of lung and bronchial cancer [have gone up massively, especially for men:](http://onlinelibrary.wiley.com/doi/10.3322/caac.21166/pdf):
 
-![male cancer rates.jpg](/images/male cancer rates.png)
+![male cancer rates.png](/images/male cancer rates.png)
 
-![female cancer rates.jpg](/images/female cancer rates.png)
+![female cancer rates.png](/images/female cancer rates.png)
 
 The risk of getting lung and brochus cancer stand at [around 7% today](http://www.cancer.org/cancer/cancerbasics/lifetime-probability-of-developing-or-dying-from-cancer), though around 80-90% of this is [thought to be due to smoking](http://www.cancer.org/cancer/cancercauses/tobaccocancer/tobacco-related-cancer-fact-sheet).  
 
