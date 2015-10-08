@@ -53,9 +53,9 @@ Here is a plot of % increase of lung cancer odds with the EPA standards:
 
 ![dylos plot.png](/images/diy-aqm/overall plot.png)
 
-the line on the top plot is the number of particles per 0.01 ft3.  By the time you've crossed the threshold from 'good' to 'moderate', your chances of lung cancer have increased by 43%.  The next few thresholds hit 128%, 200%, and 542%.  Your baseline odds of lung cancer are only around 7%, so a 200% increase is 21%.  Of course, this relationship shouldn't exacly be linear--it should asymptote at some point.
+the line on the top plot is the number of particles per 0.01 ft3.  By the time you've crossed the threshold from 'good' to 'moderate', your chances of lung cancer have increased by 43%.  The next few thresholds hit 128%, 200%, and 542%.  Your baseline odds of lung cancer (non-smoker) are only around 1.5%, so a 200% increase means you have a 4.5% chance of getting lung cancer.  Of course, this relationship shouldn't exacly be linear--it should asymptote at some point.
 
-At the mid-level 'hazardous' cutoff (above which I've labeled 'very hazardous', but the EPA still labels 'hazardous'), your chances of getting lung cancer are about %50 (assuming the linear relationship between particulate matter and lung cancer holds).  
+At the mid-level 'hazardous' cutoff (above which I've labeled 'very hazardous', but the EPA still labels 'hazardous'), your chances of getting lung cancer are about %15 (assuming the linear relationship between particulate matter and lung cancer holds).  
 
 Now here are the Dylos standards:
 
