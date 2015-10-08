@@ -17,13 +17,26 @@ published: true
 
 
 
+
 ### Summary
 
 Fine particulate matter in the air from cars and trucks, cooking, fires, and industry can give you cancer, heart attacks, and shorten your lifespan.  Poor air quality can have a number of other bad effects.  You can make a DIY air quality monitor (AQM) for about $20 that can warn you of poor air quality.  You can add internet datalogging for another few bucks.  This will give you a rough measurement of the air quality of your environment, and can help you determine if you should do anything about it (get an air filter, etc).
 
 ### Background
 
-Tiny particles in the air, generated from cars, trucks, powerplants, industry, and even cooking and burning fires at home, are causing cancer, heart attacks, and premature death among other ailments.  It's only getting worse as our population grows and demands more transportation and energy.  Particularly dangerous are the tiny particulates less than 10 microns in size, especially those less than 2.5 microns in diameter (PM2.5).  These are about 100 times smaller than the width of a human hair, and can pass directly into the bloodstream, increasing risks for diseases like cancer and heart disease, among other things.  [An increase in concentration of PM2.5 by 10 ug/m3 (micrograms per meter cubed) equates to a 36% increase in lung cancer!](http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045%2813%2970279-1/abstract)  Coincidentally, the national average of PM2.5 in the US is [about this value.](http://wwwn.cdc.gov/CommunityHealth/profile/currentprofile/CA/Orange/310019)  China, with their horrible pollution (air and otherwise), has been witnessing cancer [becoming an epidemic.](http://www.dailymail.co.uk/news/article-2283212/Cancer-epidemic-hits-China-decades-pollution-spark-boom-disease.html)  And if you live near a major roadway, you've got a [slew of tiny particles bombarding you, shortening your life and decreasing your quality of life.](http://www.tandfonline.com/doi/abs/10.1080/10473289.2002.10470842)
+Tiny particles in the air, generated from cars, trucks, powerplants, industry, and even cooking and burning fires at home, are causing cancer, heart attacks, and premature death among other ailments.  Something particularly interesting I noticed is that while the rates of smoking have [gone down significantly](http://wholehealthsource.blogspot.com/2012/02/cigarette-smoking-another-factor-in.html):
+
+![smoking rates.jpg](/images/Smoking 1900-2006.JPG)
+
+the rates of lung and bronchial cancer [have gone up massively, especially for men:](http://onlinelibrary.wiley.com/doi/10.3322/caac.21166/pdf):
+
+![male cancer rates.jpg](/images/male cancer rates.png)
+
+![female cancer rates.jpg](/images/female cancer rates.png)
+
+The risk of getting lung and brochus cancer stand at [around 7% today](http://www.cancer.org/cancer/cancerbasics/lifetime-probability-of-developing-or-dying-from-cancer).  
+
+It's only getting worse as our population grows and demands more transportation and energy.  Particularly dangerous are the tiny particulates less than 10 microns in size, especially those less than 2.5 microns in diameter (PM2.5).  These are about 100 times smaller than the width of a human hair, and can pass directly into the bloodstream, increasing risks for diseases like cancer and heart disease, among other things.  [An increase in concentration of PM2.5 by 10 ug/m3 (micrograms per meter cubed) equates to a 36% increase in lung cancer!](http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045%2813%2970279-1/abstract)  Coincidentally, the national average of PM2.5 in the US is [about this value.](http://wwwn.cdc.gov/CommunityHealth/profile/currentprofile/CA/Orange/310019)  China, with their horrible pollution (air and otherwise), has been witnessing cancer [becoming an epidemic.](http://www.dailymail.co.uk/news/article-2283212/Cancer-epidemic-hits-China-decades-pollution-spark-boom-disease.html)  And if you live near a major roadway, you've got a [slew of tiny particles bombarding you, shortening your life and decreasing your quality of life.](http://www.tandfonline.com/doi/abs/10.1080/10473289.2002.10470842)
 
 The scary thing is, the exhaust from combustion engines (cars, trucks, lawnmowers, weedwhackers, farm and industry equipment) actually spews a TON of very tiny particles that are very difficult and expensive to detect.  Here's a plot from a [scientific paper](http://www.sciencedirect.com/science/article/pii/S0048969799002144), showing a distribution of exhaust from a diesel engine:
 
@@ -39,7 +52,7 @@ After some google-y googling, [I found this post](http://www.howmuchsnow.com/ard
 
 "I often say that when you can measure what you are speaking about, and express it in numbers, you know something about it; but when you cannot measure it, when you cannot express it in numbers, your knowledge is of a meagre and unsatisfactory kind; it may be the beginning of knowledge, but you have scarcely, in your thoughts, advanced to the stage of science, whatever the matter may be."
 
-So at least we're not meagre anymore.  But what does that number mean?  Dylos has a scale on their devices which gives regimes of air quality, but it seems to be to be overly strict.  The [EPA/NAAQS has also put up a list of air quality regimes](http://www3.epa.gov/airquality/particlepollution/2012/decfsstandards.pdf), though of course they are grossly inadequate.  By the time you've passed from 'good' to 'moderate' air quality by their standards (at 12 ug/m3 PM2.5), you've already increased your risk of lung cancer by about 40%!  Baseline cancer risk is [only about 0.05% though](http://www.cdc.gov/cancer/lung/statistics/), so don't worry about it too much.  I think they may have picked a number that would be reasonable for most US cities to attain as their threshold for a law (the 12 ug/m3), since the national average is somewhere around 10 ug/m3 PM2.5.  
+So at least we're not meagre anymore.  But what does that number mean?  Dylos has a scale on their devices which gives regimes of air quality, but it seems to be to be overly strict.  The [EPA/NAAQS has also put up a list of air quality regimes](http://www3.epa.gov/airquality/particlepollution/2012/decfsstandards.pdf), though of course they are grossly inadequate.  By the time you've passed from 'good' to 'moderate' air quality by their standards (at 12 ug/m3 PM2.5), you've already increased your risk of lung cancer by about 40%!  Baseline cancer risk [was about 0.05% in 2012](http://www.cdc.gov/cancer/lung/statistics/), and [about 7% in your lifetime](http://www.cancer.org/cancer/cancerbasics/lifetime-probability-of-developing-or-dying-from-cancer).  I think they may have picked a number that would be reasonable for most US cities to attain as their threshold for a law (the 12 ug/m3), since the national average is somewhere around 10 ug/m3 PM2.5.  
 
 So the number in the cancer study and widely used for regulation is ug/m3 (micrograms per cubic meter), but the device we're going to build measures number of particles greater than 1 micron in size.  How can we reconcile this?  Thankfully, Alex Besser with [Aircasting](aircasting.org) [created a correlation between mass and particle counts, using cooking smoke as a basis](https://dl.dropboxusercontent.com/u/29720355/Besser%20Thesis%20FINAL.pdf) (it's a 4th-degree polynomial, on page 24).  
 
@@ -47,7 +60,9 @@ Here is a plot of % increase of lung cancer odds with the EPA standards:
 
 ![dylos plot.png](/images/diy-aqm/overall plot.png)
 
-the line on the top plot is the number of particles per 0.01 ft3.  By the time you've crossed the threshold from 'good' to 'moderate', your chances of lung cancer have increased by 43%.  The next few thresholds hit 128%, 200%, and 542%.  Your baseline odds of lung cancer are only around 0.05%, so a 200% increase is 0.15%.  
+the line on the top plot is the number of particles per 0.01 ft3.  By the time you've crossed the threshold from 'good' to 'moderate', your chances of lung cancer have increased by 43%.  The next few thresholds hit 128%, 200%, and 542%.  Your baseline odds of lung cancer are only around 7%, so a 200% increase is 21%.  Of course, this relationship shouldn't exacly be linear--it should asymptote at some point.
+
+At the mid-level 'hazardous' cutoff (above which I've labeled 'very hazardous', but the EPA still labels 'hazardous'), your chances of getting lung cancer are about %50 (assuming the linear relationship between particulate matter and lung cancer holds).
 
 Now here are the Dylos standards:
 
