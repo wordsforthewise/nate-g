@@ -16,6 +16,7 @@ published: true
 ---
 
 
+
 ### Summary
 
 Fine particulate matter in the air from cars and trucks, cooking, fires, and industry can give you cancer, heart attacks, and shorten your lifespan.  Poor air quality can have a number of other bad effects.  You can make a DIY air quality monitor (AQM) for about $20 that can warn you of poor air quality.  You can add internet datalogging for another few bucks.  This will give you a rough measurement of the air quality of your environment, and can help you determine if you should do anything about it (get an air filter, etc).
@@ -134,7 +135,7 @@ This will measure the number of particles >1 micron in 0.01 cubic feet, and upda
 
 A pic of the finished product (blurry, doh!):
 
-![diy-aqm.jpg]({{site.baseurl}}/images/diy-aqm.jpg)
+![diy-aqm.jpg](/images/diy-aqm.jpg)
 
 Next, add datalogging.  Here are the options I have for doing this right now:
 
