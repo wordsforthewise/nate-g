@@ -16,7 +16,7 @@ published: true
 
 ### If you can measure it, you can manage it.
 
-That was something I heard a former Wal-Mart CEO, Mike Duke, say at the WSJ [ECO:nomics](http://economics.wsj.com/) 2014 conference; "If you can measure it, you can manage it."  An important quantity to measure is our progress in life.
+That was something I heard a former Wal-Mart CEO, Mike Duke, say at the WSJ [ECO:nomics](http://economics.wsj.com/) 2014 conference; "If you can measure it, you can manage it."  I think it's best to measure everything we can, and ideally our progress in different aspects of our life.
 
 So how do you measure progress?
 
