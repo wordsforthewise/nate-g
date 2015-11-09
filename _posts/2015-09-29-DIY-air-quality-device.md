@@ -9,7 +9,7 @@ tags:
   - sensors
   - IoT
 image: 
-  feature: "diy-aqm.jpg"
+  feature: "diy-aqm-wood-crop.jpg"
   credit: me
   creditlink: wordsforthewise.github.io
 published: true
@@ -33,11 +33,11 @@ Particulate pollution may be getting worse as our population grows and demands m
 
 The scary thing is, the exhaust from combustion engines (cars, trucks, lawnmowers, weedwhackers, farm and industry equipment) actually spews a TON of very tiny particles that are very difficult and expensive to detect.  Here's a plot from a [scientific paper](http://www.sciencedirect.com/science/article/pii/S0048969799002144), showing a distribution of exhaust from a diesel engine:
 
-![diesel emissions.png](/images/diy-aqm/diesel emissions.png)
+![diesel emissions.png](/images/diy-aqm/diesel emissions.png){: .center-image }
 
 Most of the particles are in the range of 0.01 to 0.1 micron!  [That's so tiny it can actually penetrate your skin.](http://www.ncbi.nlm.nih.gov/pubmed/16614727)  Whoa!
 
-![surprised-monkey.jpg](/images/surprised-monkey.jpg)
+![surprised-monkey.jpg](/images/surprised-monkey.jpg){: .center-image }
 
 In the summer/fall of 2014, I started having sinus headaches and other sinus/mucuous issues.  At the time I thought my air quality might have something to do with it (it was actually mostly from chemical air pollution in a solar cell factory I worked in), so I started researching how to measure it.  Turns out the cheapest devices are cost around $200+ (the nifty [Speck](http://store.specksensor.com/products/speck) sensor, the [Dylos sensor](http://www.amazon.com/Dylos-DC1100-Standard-Quality-Monitor/dp/B000XG8XCI/ref=sr_1_4?ie=UTF8&qid=1443847115&sr=8-4&keywords=dylos) that was available at the time, and the [Aircasting device](aircasting.org)).
 
@@ -135,15 +135,19 @@ void loop()
 
 {% endhighlight %}
 
-Once you have that working, construct the container for the sensor.  We need to be able to hold the particle senser upright since it uses a resistor to create a hot-air draft for an air flow.  
+Once you have that working, construct the container for the sensor.  We need to be able to hold the particle senser upright since it uses a resistor to create a hot-air draft for an air flow.  I've found it easy to quickly prototype custom cases by cutting out foamboard and hotglueing it, a second case I've made was cut with a jigsaw from 1/4" thick wood.  I'm currently working on a laser-cut case for it.
 
 Finally, connect the Shinyei PPD42NS sensor, and upload [mah code from github](https://github.com/wordsforthewise/DIY-AQM/tree/master/arduino-and-shinyeiPPD42NS).
 
 This will measure the number of particles >1 micron in 0.01 cubic feet, and update the reported value on the screen every 5s.  On the first line, it will translate that value into a meaninful description, like horrible, good, excellent, etc.
 
-A pic of the finished product (blurry, doh!):
+Here's a pic of the finished product (blurry, doh!), which I have since ripped apart:
 
 ![diy-aqm.jpg](/images/diy-aqm.jpg)
+
+and the one made out of wood (actually has a NodeMCU devkit inside):
+
+![diy-aqm.jpg](/images/diy-aqm-wood-scale.jpg)
 
 Next, add datalogging.  Here are the options I have for doing this right now:
 

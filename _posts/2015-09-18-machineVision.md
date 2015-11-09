@@ -5,7 +5,7 @@ description: "Using machine vision to get data from an LCD."
 modified: 2015-09-18
 tags: [cameras, machine vision, python, McGuyver]
 image:
-  feature: MV.jpg
+  feature: MV-crop.jpg
   credit: me
   creditlink: http://wordsforthewise.github.io
 ---
