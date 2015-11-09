@@ -129,12 +129,12 @@ modified: 2015-11-08
             var mentees = [["Nick DeCino", 2013], ["Lucie Devys", 2012], ["Jose Carvalho", 2012], ["Courtney Doll", 2011], ["Lucy Darago", 2010-2011], ["Adam Jaffe", 2010], ["Rory Barker", 2010]]
             var expDescr = ["Assisted with research of inter-particle adhesion forces of hydrate particles in order to better understand plugging and flow behavior of oil and gas pipelines.", "Assisted with research concerning water vapor transport and mechanical properties of transparent conductive oxide (TCO) layers for use in flexible electronics. Also fabricated thin-film TCO samples for testing and analysis using a high-vacuum apparatus.", "Responsible for upkeep, running, and improving the sputtering processes for manufacturing CIGS solar cells. Big data analysis and correlation to experimental conditions (using python and JMP), automation through programming, machine vision, and building software/hardware improvements for the manufacturing line."]
             var expMentors = ["Mentors: Carolyn Koh and Dendy Sloan", "Mentors: Lin Simpson and Arrelaine Dameron", "Managers: Don Person and Art Wall"]
-            var eduDates = [[new Date([2001,8,15]), new Date(2005,5,1)],
-                       [new Date([2005,8,1]), new Date(2009,5,1)],
-                       [new Date([2009,9,1]), new Date(2013,12,22)]]
-            var expDates = [[new Date([2007,9,1]), new Date(2008,8,1)],
-                            [new Date([2008,9,1]), new Date(2009,6,1)],
-                            [new Date([2014,7,1]), new Date(2015,7,1)]]; // [start, end date]
+            var eduDates = [[new Date([2001,7,15]), new Date(2005,4,1)],
+                       [new Date([2005,7,1]), new Date(2009,4,1)],
+                       [new Date([2009,8,1]), new Date(2013,11,20)]]
+            var expDates = [[new Date([2007,8,1]), new Date(2008,7,1)],
+                            [new Date([2008,8,1]), new Date(2009,5,1)],
+                            [new Date([2014,6,1]), new Date(2015,7,12)]]; // [start, end date]
             var dates = eduDates.concat(expDates);
             var descriptions = eduDescr.concat(expDescr);
             var positions = eduPos.concat(expPos);
