@@ -70,7 +70,7 @@ html, body {
   margin: auto;
   text-align: left;
   font-family: bebas;
-  color: #6688ff; }
+  color: #00A1E3; }
 
 #phone {
   margin: auto;
@@ -117,17 +117,17 @@ html, body {
   margin: auto;
   text-align: center;
   font-family: bebas;
-  color: #6688ff; }
+  color: #00A1E3; }
 
 .expLabel {
   margin: auto;
   text-align: center;
   font-family: bebas;
-  color: #6688ff; }
+  color: #00A1E3; }
 
 .schoolHead {
   font-family: bebas;
-  color: #6688ff;
+  color: #00A1E3;
   height: 8px; }
 
 .eduAddr {
@@ -148,7 +148,7 @@ html, body {
 .expHead {
   font-family: bebas;
   text-align: right;
-  color: #6688ff;
+  color: #00A1E3;
   height: 8px; }
 
 .expAddr {
@@ -191,7 +191,7 @@ html, body {
   margin: auto;
   text-align: center;
   font-family: bebas;
-  color: #6688ff; }
+  color: #00A1E3; }
 
 .skillsCaption {
   margin: auto;
@@ -202,18 +202,18 @@ html, body {
   margin: auto;
   text-align: center;
   font-family: bebas;
-  color: #6688ff; }
+  color: #00A1E3; }
 
 .otherText {
   font-family: bebas;
   text-align: center; }
 
 .infoName {
-  color: #6688ff;
+  color: #00A1E3;
   font-family: bebas; }
 
 .infoTitle {
-  color: #6688ff;
+  color: #00A1E3;
   font-family: bebas; }
 
 .bl {

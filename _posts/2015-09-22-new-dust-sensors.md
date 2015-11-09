@@ -1,16 +1,20 @@
 ---
-published: false
-
 layout: post
 title: New particulate sensors
-description: "Some new particulate sensors."
+description: Some new particulate sensors.
 modified: 2015-09-18
-tags: [AQM, air quality, sensors, science]
-image:
+tags: 
+  - AQM
+  - air quality
+  - sensors
+  - science
+image: 
   feature: plantower.png
   credit: me
-  creditlink: http://wordsforthewise.github.io
+  creditlink: "http://wordsforthewise.github.io"
+published: false
 ---
+
 
 ## New cowboys on the scene
 
