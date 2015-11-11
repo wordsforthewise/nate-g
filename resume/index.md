@@ -227,7 +227,7 @@ modified: 2015-11-08
                         fontName: 'bebas',
                         fontSize: 14
                     },
-                    viewWindow: {min: 0, max: 5}, 
+                    viewWindow: {min: 1, max: 5}, 
                     ticks: [0,1,2,3,4,5]
                 },
                 vAxis: {
