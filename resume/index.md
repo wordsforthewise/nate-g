@@ -48,7 +48,7 @@ modified: 2015-11-08
         </div>
         <div class="other">
         <h2 class="sectionLabel">Other</h2>
-        <p class="otherText">2 seasons of <a href="https://youtu.be/wCfd9ZZsP_k?t=1m11s">Blue Knights Drum and Bugle Corps</a> (2006, 2007)
+        <p class="otherText">2 seasons of <a href="https://youtu.be/wCfd9ZZsP_k?t=1m11s">Blue Knights Drum and Bugle Corps</a> (<a href="https://www.youtube.com/watch?v=-KJ8lfPYHJA&feature=youtu.be&t=10s">2006</a>, <a href="https://www.youtube.com/watch?v=s87O5bxt7iI&feature=youtu.be&t=13m4s">2007</a>)
         <br/>
         Numerous children's science education outreach events</p>
         </div>
