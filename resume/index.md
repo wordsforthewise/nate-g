@@ -150,12 +150,11 @@ modified: 2015-11-08
             //google.load("visualization", "1", {packages:["timeline"]});
             google.charts.load( '43', {packages: ['timeline', 'bar']});
           
-            /* skills bar charts */
-            var progData = [["Techincal Writing/Communications", 5], ["Python", 4.5], ["C++, C#, C", 2.5], ["ESP8266/Lua IoT Devices", 4], ["Linux/bash", 3.5], ["MS Office", 4], ["Latex", 4], ["JMP", 3], ["HTML", 4], ["Matlab", 3], ["Mathematica", 2], ["Visual Basic", 2], ["Javascript", 3], ["Machine Vision", 3]];
+			/* skills bar charts */
+            var progData = [["Techincal Writing/Communications", 5], ["Python", 5], ["C++, C#, C", 3], ["ESP8266/Lua IoT Devices", 5], ["Linux/bash", 4], ["MS Office", 5], ["Latex", 4], ["JMP", 3], ["HTML", 4], ["Matlab", 3], ["Mathematica", 2], ["Visual Basic", 2], ["Javascript", 3], ["Machine Vision", 3]];
             labels1 = [['Skill', 'Self rating']];
             
-            var scienceData = [["High-temp solid-state chemistry", 5], ["Solid-state NMR", 4], ["X-ray/Nuetran diffraction and anaylisis", 4], ["Photoluminescence", 4], ["Quantum yield", 4], ["XANES/EXAFS", 4], ["ESR", 4], ["SEM", 3], ["OES", 3.5], ["Sputter Deposition", 3]];
-            labels2 = [['Skill', 'Self rating']];
+            var scienceData = [["High-temp solid-state chemistry", 5], ["Solid-state NMR", 5], ["X-ray/Nuetran diffraction and anaylisis", 5], ["Photoluminescence", 5], ["Quantum yield", 4], ["XANES/EXAFS", 4], ["ESR", 4], ["SEM", 3], ["OES", 5], ["Sputter Deposition", 4]];
 		
             var progArray = labels1.concat(progData.sort(function(a,b){
                 return b[1] - a[1];
