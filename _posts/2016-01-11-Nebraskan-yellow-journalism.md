@@ -37,7 +37,7 @@ One of my favorite parts of this news clip is when they interview some seemingly
 ![moron.png](/images/stupidNE/moron.png){: .center-image }
 *<center>Mr. "principles".</center>*
 
-<iframe width="854" height="480" src="https://youtu.be/SZls2ioUqqc" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://youtu.be/SZls2ioUqqc" frameborder="0" allowfullscreen></iframe>
 
 A World-Herald staff writer also [wrote an article](http://www.omaha.com/news/nebraska-on-its-own-with-drug-enforcement-costs-tied-to/article_d76f74a4-b109-5080-9d7b-4e26264686bc.html#nebraska-on-its-own-with-drug-enforcement-costs-tied-to-colorado-pot-sales), this one with at least a few numbers in it.  Conveniently, it was posted on 4-20-2014!  Did they do that on purpose?  (In case you don't know the significance of 4-20 to cannabis connoisseurs, [read up](https://en.wikipedia.org/wiki/420_(cannabis_culture))).  They did provide some useful numbers in the report: "As of last week, the Nebraska State Patrol had seized 997 pounds of marijuana this year. That's 281 pounds less than the amount confiscated during the same period in 2013, said Deb Collins, a patrol spokeswoman."  Back in 2001, almost [5,000 pounds were siezed](http://www.justice.gov/archive/ndic/pubs4/4934/marijuan.htm), and more recently, [about 3,000-4,000 lbs were siezed](http://www.klkntv.com/story/27646292/pot-busts-down-money-seized-up?clienttype=mobile).  So, let me get this straight--less cannabis was seized, but somehow you claim the costs of enforcement are going up?  That makes no sense.  
 
