@@ -9,7 +9,7 @@ tags:
   - Nebraska
   - Colorado
 image: 
-  feature: "Nebraska Moron.png"
+  feature: "nebraska moron.png"
   credit: KETV
   creditlink: "http://www.ketv.com/news/Colorado-marijuana-costing-Nebraska-taxpayers/25868850"
 published: true
