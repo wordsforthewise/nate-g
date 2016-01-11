@@ -59,7 +59,7 @@ Based on these news stories, the general Nebraskan anti-cannabis attitude, and m
 
 If we look deeper, we can see that the number of offenders in prison for drugs has stayed flat or decreased since 2007 (and specifically for marijuana in the case of the females--they have more specific data).
 ![female-drugs.png](/images/stupidNE/female-drugs.png){: .center-image }
-*<center>Looks like a flat line to me.</center>*
+*<center>Looks like a flat line or downslope to me.</center>*
 
 ![male-drugs.png](/images/stupidNE/male-drugs.png){: .center-image }
 *<center>This one has a slightly negative slope.</center>*
