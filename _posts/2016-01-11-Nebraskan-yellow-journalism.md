@@ -49,7 +49,7 @@ That's a ridiculous claim to make based on some rumor you "recently heard today"
 
 Based on these news stories, the general Nebraskan anti-cannabis attitude, and my Dad's adamant anti-weed stance, I decided to investigate some prison statistics.  First, let it be known that CO legalized medicinal marijuana in the year 2000, and legalized recreational cannabis in 2013.  Based on these news stories from 2014, we should see a large jump in prison population, and specifically for marijuana-related offenses.  The Nebraska corrections department [publishes some numbers](http://www.corrections.nebraska.gov/news.html), and it looks like the overall prison population has slightly increased since 2005, jumping up about 10% in 2012.
 ![total_corrections.png](/images/stupidNE/total_corrections.png){: .center-image }
-*<center>Nebraska prison population is basically flat since 2007.</center>*
+*<center>Nebraska prison population is basically flat since 2005.</center>*
 
 If we look deeper, we can see that the number of offenders in prison for drugs has stayed flat or decreased since 2007 (and specifically for marijuana in the case of the females--they have more specific data).
 ![female-drugs.png](/images/stupidNE/female-drugs.png){: .center-image }
