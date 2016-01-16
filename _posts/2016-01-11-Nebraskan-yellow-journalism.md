@@ -34,11 +34,11 @@ In fact, this is a recurring theme I'm finding in anti-marijuana campaigns--maki
 Now, let's look at what percentage of people jailed in Nebraska are due to cannabis:
 
 ![mj related pct.png](/images/stupidNE/mj related pct.png){: .center-image }
-*<center>Arrests only increased in border counties so far.  Might the police be looking harder for marijuana?</center>*
+*<center>Arrests only increased in border counties so far. Might the police be looking harder for marijuana?</center>*
 
 Oh no!  It's up so high in the border counties!  Not so fast.  Border counties only make up about 6% of total marijuana admissions (54 out of 963 in 2013).
 
-!mj related admissions.png](/images/stupidNE/mj related admissions.png){: .center-image }
+![mj related admissions.png](/images/stupidNE/mj related admissions.png){: .center-image }
 *<center>Marijuana admissions in border counties are a blip on the radar.</center>*
 
 Out of the total jail admissions in Nebraska in 2013 (69420) marijuana-related admissions were only 1.4% (963).
