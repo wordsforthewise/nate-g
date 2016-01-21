@@ -12,20 +12,20 @@ image:
   feature: "nebraska moron.png"
   credit: KETV
   creditlink: "http://www.ketv.com/news/Colorado-marijuana-costing-Nebraska-taxpayers/25868850"
-published: true
+published: false
 ---
 
 
 ### Nebraskan cops and news reporters skew the truth
 
-Recently, my dad was parroting the local news' claims that legalized cannabis in Colorado (specifically, the recreational variety, for which sales began at the beginning of 2014) is costing NE (Nebraska) taxpayers a LOT of money.  Oh dear!  Costing a lot of money?!  But how?  Where was this (mis)information coming from?  I decided to investigate...and what I found was these news networks and the people they interviewed were spreading misinformation based on a few anecdotes.  Shame on them!
+Recently, my dad was parroting the local news' claims that legalized cannabis in Colorado (specifically, the recreational variety, for which sales began at the beginning of 2014) is costing NE (Nebraska) taxpayers a LOT of money.  Oh dear!  Costing a lot of money?!  But how?  Where was this (mis)information coming from?  I decided to investigate...and what I found was these news networks and the people they interviewed were spreading misinformation based on a few anecdotes.  For shame! I for one, like to use *statistics* to back up my arguments, not just a few anecdotes.
 
-The only way this could be costing Nebraskans money is if marijuana-related justice system costs increased *significantly*. There's [an excellent study](http://www.unomaha.edu/college-of-public-affairs-and-community-service/nebraska-center-for-justice-research/documents/reduced-colorado-legalization.pdf) that came out recently, showing trends up to 2014.  First, lets look at how much it costs.  Estimated total costs for Marijuana-related jailings is about 1 million dollars; the border counties (who are complaining in the news stories) only cost about 10% of the total, although it's increased by a factor of 10 since 2000:
+The only way this could be costing Nebraskans money is if marijuana-related justice system costs increased *significantly*. Well, has it?  Overall in NE, the answer is no.  The answer in the border counties is yes.  There's [an excellent study](http://www.unomaha.edu/college-of-public-affairs-and-community-service/nebraska-center-for-justice-research/documents/reduced-colorado-legalization.pdf) that came out recently, showing trends up to 2014.  First, lets look at how much it costs.  Estimated total costs for Marijuana-related jailings is about 1 million dollars; the border counties (who are complaining in the news stories) only cost about 10% of the total, although it's increased by a factor of 10 since 2000:
 
 ![dollars on MJ arrests.png](/images/stupidNE/dollars on MJ arrests.png){: .center-image }
 *<center>Border counties make up a small fraction of total MJ arrest costs (about 10%).</center>*
 
-However, all counties are down in costs recently, except the CO border counties.  In total, the state-wide cost is about flat.  Total NE justice system costs are near $800 million, so to say something that is costing about $1 million (0.125% of total costs) is a big problem is extremely dishonest and sensational.  
+However, all counties are down in costs recently, except the CO border counties.  In total, the state-wide cost is about flat.  Total NE justice system costs are near $800 million, so to say something that is costing about $1 million (0.125% of total costs) is a big problem is extremely dishonest and sensational.  In total, the maximum marijuana-related justice costs could be is around 60 million (see below), but it's probably far below that.  Even then, that's less than 10% of total costs--not the biggest problem out there.
 
 In fact, this is a recurring theme I'm finding in anti-marijuana campaigns--making a big deal about things increasing from 0.1% to 0.12%.  Another example is fatal car accidents which were claimed to be related to marijuana (I'm not sure if they tested blood for THC or Cannabinol levels--there is a BIG difference in what the two mean), which doubled recently from something like 37 to 74 per year (2013-2014).  Of course anything fatal is *always* a trajedy, and we would all like them to decrease (except, maybe Hitler).  With a state population of about 5 million people in CO, that's an absolute increase of 0.0007% to 0.0015% fatal marijuana-related car accidents.  Watch out, it's an epidemic!
 
