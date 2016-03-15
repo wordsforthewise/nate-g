@@ -8,8 +8,6 @@
 
 # to test locally, run (windows):
 # bundle exec jekyll serve --baseurl
-# on ubuntu:
-# jekyll serve
 title:            Nate G
 description:      Nate G's personal site
 disqus_shortname: wordsforthewise
