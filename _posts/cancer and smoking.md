@@ -8,4 +8,4 @@ the rates of lung and bronchial cancer [have gone up massively, especially for m
 
 ![female cancer rates.png](/images/female cancer rates.png) {: .center-image }
 
-I can't help but think some of that is from pollution, but the smoking and cancer death curves for men look shockinly similar, just offset by 30 years.
+I can't help but think some of that is from pollution, but the smoking and cancer death curves for men look shockinly similar, just offset by 30 years.  Don't smoke; it's bad for you.  Yes, even smoking weed is bad for you, despite what a few obscure studies may show--smoke is pollution!
