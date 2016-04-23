@@ -35,7 +35,7 @@ Usually 2 pounds are grown in 20 square feet every 3 months, so we will need an 
 I've personally seen someone grow about 12 oz in 3-4 months in a hydroponic system with a 300W LED light.  The size was about 3x3x6ft, and they started from seeds, and grew 3 plants.
 
 ### Financials
-Assuming we can sell to %50 of the daily-user population, we should be able to sell 100,000 units in Colorado alone.  Assuming we are making 5x profit margins on the raw materials, that's $800 on each growbox for $80M in gross revenue.  The unit can be used for other plants as well (coffee, tomatoes, basil, other herbs, etc) meaning sales can be done nationwide.
+Assuming we can sell to %50 of the daily-user population, we should be able to sell 100,000 units in Colorado alone.  Assuming we are making 5x profit margins on the raw materials, that's around $500 on each growbox for $50M in gross revenue.  The unit can be used for other plants as well (coffee, tomatoes, basil, other herbs, etc) meaning sales can be done nationwide.
 
 ### Function
 Having two boxes is ideal, because the plant can be cured right in the grow box under light (which helps heat and dry the plant).  I was inspired to do this by a friend from Santa Barbara, CA, who told a story about finding some weed in the Santa Barbara mountains.  Once when he was hiking, he came across a cannabis plant that was fully grown with flowers.  It had been perfectly cured in the sun, and he simply cracked off some nugs to take with him.  The same sun-curing step will be possible in this apparatus, which takes an extra 1-2 weeks.  Final curing over another few weeks is typically done mason jars.
@@ -49,4 +49,7 @@ Various add-ons are possible, like CO2, custom lighting, and outside skins to na
 ### Material costs
 So far it's looking like $125 just for the lighting.  The MCU could be $5-20 depending on what we want to do, the structure itself will probably be around $60.  Other various electronics will probably be around $30.  Total is $215 retail, round up to $250, hopefully can cut that in half with wholesale.  This means we probably have to sell it for $1,000 to start.  If scale-up is achieved, we could sell it for $600.
 
+### Long-term outlook
 I think these boxes need to be made for a really low cost though, because eventually the price per pound of cannabis will come way down.  Right now, the cost is highly inflated due to the legality.  For example, the [price of tobacco is about $2 a pound](https://weather.com/farming/news/tobacco-crop-20121120).  I don't see marijuana being that much different from tobacco, so I expect once nationwide legaliaztion hits sometime in the next 10 years, we will see plummeting prices, and these growboxes will need to be extremely cheap to make any sense for the consumer.
+
+However, for food items, this makes a lot more sense in the long term.  Vitamins degrade over time in vegetables and fruits, and everybody knows fresh veggies taste better, especially if you've optimized the growth parameters for taste and not weight.  Commercial growers that sell to grocery stores tend to bulk up the weight of their crops so they get paid more, essentially selling you more water instead of actual food.  Even if it costs more to produce your own produce, it would be worth it if the food is fresh and tasty.
