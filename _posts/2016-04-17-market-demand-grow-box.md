@@ -48,3 +48,5 @@ Various add-ons are possible, like CO2, custom lighting, and outside skins to na
 
 ###Material costs
 So far it's looking like $125 just for the lighting.  The MCU could be $5-20 depending on what we want to do, the structure itself will probably be around $60.  Other various electronics will probably be around $30.  Total is $215 retail, round up to $250, hopefully can cut that in half with wholesale.  This means we probably have to sell it for $1,000 to start.  If scale-up is achieved, we could sell it for $600.
+
+I think these boxes need to be made for a really low cost though, because eventually the price per pound of cannabis will come way down.  Right now, the cost is highly inflated due to the legality.  For example, the [price of tobacco is about $2 a pound](https://weather.com/farming/news/tobacco-crop-20121120).  I don't see marijuana being that much different from tobacco, so I expect once nationwide legaliaztion hits sometime in the next 10 years, we will see plummeting prices, and these growboxes will need to be extremely cheap to make any sense for the consumer.
