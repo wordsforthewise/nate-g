@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Started with NodeMCU on Windows
-description: "Using NdoeMCU to program an ESP8266 NodeMCU devkit."
+description: "Using NodeMCU to program an ESP8266 NodeMCU devkit."
 modified: 2015-10-03
 tags: [nodeMCU, esp8266, IoT, programming]
 image:
