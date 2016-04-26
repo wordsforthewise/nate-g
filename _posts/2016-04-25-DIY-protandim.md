@@ -72,4 +72,6 @@ Here's a cost breakdown.
 
 The honey and milk thistle are by far the most expensive components.  To drop the price, milk thistle can be [bought at a discount at higher volumes](http://www.herbco.com/p-380-milk-thistle-seed-whole.aspx?test=zeros&utm_expid=8790734-0.3AeVqw8lSiWXCekb73M-rw.1&gclid=CjwKEAjwgPe4BRCB66GG8PO69QkSJAC4EhHhS3iCKx-efUbnlDksK3ApFaSmpyqYHM1l0yiEnYzGAhoCLyzw_wcB&utm_referrer=https%3A%2F%2Fwww.google.com%2F) (cut price is half at least), [so can honey](http://www.webstaurantstore.com/monarchs-choice-bakers-special-honey-60-lb-pail/789HONBAKE60.html?utm_source=Google&utm_medium=cpc&utm_campaign=GoogleShopping&gclid=CjwKEAjwgPe4BRCB66GG8PO69QkSJAC4EhHhy6P7wW0oKPYBUF5oEGUEJ9pddzW8uF8tHZOJdU44mBoC0kXw_wcB) (drop the price by 1/3).
 
+You can also order curcumin and milk thistle extract, so the amount of those powders isn't so high.  However, that is then violating the patent.  But it's not like they're going to come after you in your kitchen if you're mixing this up for yourself.
+
 I've also ordered some Protandim to give it a shot.  According to the first research paper on it, I would expect to feel something in a week or two.  Will update soon.
