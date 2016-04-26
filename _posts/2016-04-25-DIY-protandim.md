@@ -50,8 +50,8 @@ The overall recipe turned out to be:
 | total mass                      | 346.05  | g    |
 | total mass (w/o milk thistle seeds) | 109.05  | g    |
 | honey                           | 1090.5  | g    |
-| honey                           | 1548.51 | ml   |
-| honey                           | 6.5     | cups |
+| honey                           | 768 | ml   |
+| honey                           | 3 1/4     | cups |
 
 I haven't added the cost of any other seeds yet.  Sunflower seeds are super cheap though.
 I have yet to try this recipe, I will as soon as the ingredients arrive, and then update.
