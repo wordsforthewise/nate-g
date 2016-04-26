@@ -65,8 +65,8 @@ Here's a cost breakdown.
 | bacopa powder           | 12.5  | 113  | 301      | 0.04         | 6%        | [link](http://www.ebay.com/itm/4-oz-Bacopa-Monnieri-Powder-Bacopa-Monnieri-113-g-25-lb-/181819981382?hash=item2a5550be46:g:idAAAOSwqu9VQSqS)                          |
 | milk thistle seeds      | 15.48 | 454  | 57       | 0.27         | 42%       | [link](http://www.ebay.com/itm/Milk-Thistle-Seeds-Organic-1-lb-Pkg-/182046952805?hash=item2a62d80d65:g:ViIAAOSwoBtW3c0N)                                          |
 | ashwagandha powder      | 17.65 | 454  | 3027     | 0.01         | 1%        | [link](http://www.ebay.com/itm/Ashwagandha-Root-Powder-1-LB-16oz-Withania-Somnifera-Non-GMO-/300951025064?var=&hash=item46121435a8:m:mGlOR7esWOL8llOYe-dBgcg)         |
-| matcha green tea powder | 17    | 454  | 614      | 0.03         | 4%        | http://www.ebay.com/itm/PURE-MATCHA-GREEN-TEA-POWDER-100-NATURAL-1-LB-16-OZ-/151904213664?hash=item235e325aa0:g:mxYAAOSwHQ9WYHbY)                              |
-| turmeric powder         | 12.98 | 454  | 192      | 0.07         | 11%       | http://www.ebay.com/itm/100-Pure-HIGHEST-QUALITY-1Lb-TURMERIC-ROOT-GROUND-POWDER-Curcuma-Longa-16oz-453g-/381532902602?hash=item58d52214ca:g:Gg0AAOSwpzdWqrYL) |
+| matcha green tea powder | 17    | 454  | 614      | 0.03         | 4%        | [link](http://www.ebay.com/itm/PURE-MATCHA-GREEN-TEA-POWDER-100-NATURAL-1-LB-16-OZ-/151904213664?hash=item235e325aa0:g:mxYAAOSwHQ9WYHbY)                              |
+| turmeric powder         | 12.98 | 454  | 192      | 0.07         | 11%       | [link](http://www.ebay.com/itm/100-Pure-HIGHEST-QUALITY-1Lb-TURMERIC-ROOT-GROUND-POWDER-Curcuma-Longa-16oz-453g-/381532902602?hash=item58d52214ca:g:Gg0AAOSwpzdWqrYL) |
 |                         |       |      |          |              |           |                                                                                                                                                               |
 | total                   |       |      |          | 0.65         |           |    
 
