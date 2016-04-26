@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Colorado market demand for a growbox
+title: Colorado market demand for cannabis
 description: "market size in CO for cannabis growbox"
 modified: 2016-4-17
 tags: [growbox, LEDs, hydroponics, plants, botany, horticulture, cannabis, marijuana]
@@ -8,7 +8,7 @@ image:
   feature: big bud cropped.jpg
 ---
 
-One business idea I'm exploring is a mostly-automated growbox for plants in general.  With the market price for marijuana so high (pun intended) at $1500-$4000 per pound, the first market that makes the most sense to go after is the cannabis crowd.  [Leaf](http://www.getleaf.co/) came out with a pretty stellar product aimed at cannabis users, so the only room to grow is by attacking a different niche, making it cheaper, or aestetically much different.  I decided to do a bit of market research on this to see what the possibilities are.
+One business idea I've tossed up is a mostly-automated growbox for plants in general.  With the market price for marijuana so high (pun intended) at $1500-$4000 per pound, the first market that makes the most sense to go after is the cannabis crowd.  As I heard Elon Musk say about electric cars and startups in general: go for the high profit margin items (which are usually expensive). [Leaf](http://www.getleaf.co/) came out with a pretty stellar product aimed at cannabis users, so the only room to grow is by attacking a different niche, making it cheaper, or aestetically much different.  I decided to do a bit of market research on this to see what the possibilities are, and to understand the Colorado cannabis crowd.
 
 ![paper title](/images/colorado market share/paper title.jpg){: .center-image }
 
@@ -18,7 +18,7 @@ The Colorado DOR [published a report](https://www.google.com/url?sa=t&rct=j&q=&e
 
 ![adjusted users](/images/colorado market share/adjusted users.jpg){: .center-image }
 
-There are about 200,000 people in Colorado who use marijuana on a daily basis, and they consume about 1 pound per year.  I'm really curious to know the demographics of these people, and if there are many successful people in that crowd, or people with high incomes.  Right now it's hard to say what this average daily user looks like.  My guess would be 75% male and an average income of 50k per year or less.
+There are about 200,000 people in Colorado who use marijuana on a daily basis, and they consume about 1 pound per year.  I'm really curious to know the demographics of these people, and if there are many successful people in that crowd, or people with high incomes.  Right now it's hard to say what this average daily user looks like.  I'd guess mostly male and an average income level.
 
 ![usage table](/images/colorado market share/usage table.jpg){: .center-image }
 
