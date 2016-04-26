@@ -16,7 +16,7 @@ When I went to buy a bottle on the site, the payment page looked like this:
 
 ![payment page](/images/payment page.png){: .center-image}
 
-What's with the "Secured by CHASE" line.  Doesn't look very official... 
+What's with the "...secured by CHASE" line.  Doesn't look very official... 
 
 There seems to be a lot of conflicting viewpoints out there about the drug, like [this](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&cad=rja&uact=8&ved=0ahUKEwjN_NaZhKvMAhWLzoMKHXYGD9MQFggrMAU&url=http%3A%2F%2Fprotandimretort.com%2Fprotandim-dr-mccord-inventor-vs-paul-myhill%2F&usg=AFQjCNHfl8PjAE6EQvvv197z4ZaXwQbE3w&sig2=P1ogDLzPd_EWKqkUCq6ZCw) vs [this](http://protandimretort.com/protandim-dr-mccord-inventor-vs-paul-myhill/).  There's also [this article](http://web.archive.org/web/20101114031418/http://www.lazymanandmoney.com/lifevantage-protandim-scam) that LifeVantage sued to have removed from the internet, calling it slander I think.  There's a number of other reviews I've found ([1](http://supplement-geek.com/protandim-research-review-lifevantage/), [2](http://themedicineguy.com/protandim-life-extender-or-money-waster/), [3](https://www.sciencebasedmedicine.org/protandim-another-kind-of-antioxidant/)) that generally don't have a strong opinion one way or another.  There's a ton of [youtube videos](https://www.youtube.com/results?search_query=protandim) on the subject, of course.
 
@@ -48,7 +48,7 @@ The overall recipe turned out to be:
 | matcha green tea powder         | 22.2    | g    |
 | turmeric powder                 | 71.1    | g    |
 | total mass                      | 346.05  | g    |
-| total mass - milk thistle seeds | 109.05  | g    |
+| total mass (w/o milk thistle seeds) | 109.05  | g    |
 | honey                           | 1090.5  | g    |
 | honey                           | 1548.51 | ml   |
 | honey                           | 6.5     | cups |
@@ -61,12 +61,12 @@ Here's a cost breakdown.
 
 | item                    | cost  | g    | servings | cost/serving | % of cost | link                                                                                                                                                          |
 |-------------------------|-------|------|----------|--------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| honey                   | 14.48 | 2260 | 62       | 0.23         | 36%       | http://www.walmart.com/ip/Pure-N-Simple-100-Pure-Honey-80-oz/19857743?reviews_limit=10&                                                                       |
-| bacopa powder           | 12.5  | 113  | 301      | 0.04         | 6%        | http://www.ebay.com/itm/4-oz-Bacopa-Monnieri-Powder-Bacopa-Monnieri-113-g-25-lb-/181819981382?hash=item2a5550be46:g:idAAAOSwqu9VQSqS                          |
-| milk thistle seeds      | 15.48 | 454  | 57       | 0.27         | 42%       | http://www.ebay.com/itm/Milk-Thistle-Seeds-Organic-1-lb-Pkg-/182046952805?hash=item2a62d80d65:g:ViIAAOSwoBtW3c0N                                              |
-| ashwagandha powder      | 17.65 | 454  | 3027     | 0.01         | 1%        | http://www.ebay.com/itm/Ashwagandha-Root-Powder-1-LB-16oz-Withania-Somnifera-Non-GMO-/300951025064?var=&hash=item46121435a8:m:mGlOR7esWOL8llOYe-dBgcg         |
-| matcha green tea powder | 17    | 454  | 614      | 0.03         | 4%        | http://www.ebay.com/itm/PURE-MATCHA-GREEN-TEA-POWDER-100-NATURAL-1-LB-16-OZ-/151904213664?hash=item235e325aa0:g:mxYAAOSwHQ9WYHbY                              |
-| turmeric powder         | 12.98 | 454  | 192      | 0.07         | 11%       | http://www.ebay.com/itm/100-Pure-HIGHEST-QUALITY-1Lb-TURMERIC-ROOT-GROUND-POWDER-Curcuma-Longa-16oz-453g-/381532902602?hash=item58d52214ca:g:Gg0AAOSwpzdWqrYL |
+| honey                   | 14.48 | 2260 | 62       | 0.23         | 36%       | [link](http://www.walmart.com/ip/Pure-N-Simple-100-Pure-Honey-80-oz/19857743?reviews_limit=10&)                                                                       |
+| bacopa powder           | 12.5  | 113  | 301      | 0.04         | 6%        | [link](http://www.ebay.com/itm/4-oz-Bacopa-Monnieri-Powder-Bacopa-Monnieri-113-g-25-lb-/181819981382?hash=item2a5550be46:g:idAAAOSwqu9VQSqS)                          |
+| milk thistle seeds      | 15.48 | 454  | 57       | 0.27         | 42%       | [link](http://www.ebay.com/itm/Milk-Thistle-Seeds-Organic-1-lb-Pkg-/182046952805?hash=item2a62d80d65:g:ViIAAOSwoBtW3c0N)                                          |
+| ashwagandha powder      | 17.65 | 454  | 3027     | 0.01         | 1%        | [link](http://www.ebay.com/itm/Ashwagandha-Root-Powder-1-LB-16oz-Withania-Somnifera-Non-GMO-/300951025064?var=&hash=item46121435a8:m:mGlOR7esWOL8llOYe-dBgcg)         |
+| matcha green tea powder | 17    | 454  | 614      | 0.03         | 4%        | http://www.ebay.com/itm/PURE-MATCHA-GREEN-TEA-POWDER-100-NATURAL-1-LB-16-OZ-/151904213664?hash=item235e325aa0:g:mxYAAOSwHQ9WYHbY)                              |
+| turmeric powder         | 12.98 | 454  | 192      | 0.07         | 11%       | http://www.ebay.com/itm/100-Pure-HIGHEST-QUALITY-1Lb-TURMERIC-ROOT-GROUND-POWDER-Curcuma-Longa-16oz-453g-/381532902602?hash=item58d52214ca:g:Gg0AAOSwpzdWqrYL) |
 |                         |       |      |          |              |           |                                                                                                                                                               |
 | total                   |       |      |          | 0.65         |           |    
 
