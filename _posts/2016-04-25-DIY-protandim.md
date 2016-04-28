@@ -85,7 +85,7 @@ You can also order curcumin and milk thistle extract, so the amount of those pow
 |                      |        |          |             |              |                |                                                                                                                                                                                  |
 | total                |        |          |             | 0.19         | 8.250          |               
 
-The total cost ends up being pretty cheap ($0.19 / day), and the amount of honey is drastically reduced, meaning only 23 calories and 6 g of sugar from the honey, per day.  Compared with the cost of $1.33 / day for protandim, this becomes much cheaper, but you would have to put in more labor.  The way I would make it is to combine the honey mixture with something else, bake it into bars, and cut up the bars to properly does out the mixture.  Easy and tasty.
+The total cost ends up being pretty cheap ($0.19 / day, about 1/7 of the cost of the Protandim pill at $1.33 / day), and the amount of honey is drastically reduced, meaning only 23 calories and 6 g of sugar from the honey, per day.  Compared with the cost of $1.33 / day for protandim, this becomes much cheaper, but you would have to put in more labor.  The way I would make it is to combine the honey mixture with something else, bake it into bars, and cut up the bars to properly does out the mixture.  Easy and tasty.
 
 Interestingly, the prices for the extract (per serving) are cheaper than the raw material.  Doesn't make sense to me, since extra processing is needed for the extracts, but oh well.  For the curcumin extract, I put one in there that also has piperine (which increases the bioavailability of curcumin).
 
