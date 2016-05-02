@@ -24,8 +24,9 @@ modified: 2015-11-08
         <h3 id="phone">402-740-4858 <img class="headImgs" src="Black/Mobile Phone/Mobile Phone_24.png" alt="phone"></h3>
         <h3 id="email">nathancgeorge@gmail.com <img class="headImgs" src="Black/E-mail/E-mail_24.png" alt="phone"></h3>
         <h3 id="website">ngeorge.us <img class="headImgs" src="Black/World Wide Web/World Wide Web_24.png" alt="phone"></h3>
-        <h3 id="location">Elkhorn, NE (temp) <img class="headImgs" src="Black/Location/Location_24.png" alt="phone"></h3>
+        <h3 id="location">Denver, CO <img class="headImgs" src="/images/Black/Location/Location_24.png" alt="phone"></h3>
         </div>
+        <p id="liveview">View this live and with more detail at ngeorge.us/resume</p>
         </div>
         <div id="map"></div>
         <div id="timeline"></div>
@@ -57,11 +58,11 @@ modified: 2015-11-08
         
         <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
         <script type="text/javascript" src="https://www.google.com/jsapi"></script>
-        <script src="rainbowvis.js"></script>
-        <script type="text/javascript" src="async.js"></script>
-        <script type="text/javascript" src="underscore.min.js"></script>
+        <script src="/files/rainbowvis.js"></script>
+        <script type="text/javascript" src="/files/async.js"></script>
+        <script type="text/javascript" src="/files/underscore.min.js"></script>
         <script>
-             function setEqualHeight(selector, triggerOnInput) {
+             function setEqualHeight(selector, triggerOnInput, maxHeight) {
                 //console.log('setting heights equal');
                 var elements = $(selector)
                 elements.css("height", "auto")
@@ -71,18 +72,19 @@ modified: 2015-11-08
 		                max = $(item).height()
 	                }
                 })
+                typeof maxHeight !== 'undefined' ? max = maxHeight : max = max;
                 $(selector).css("height", max + "px")
                 //console.log('max height:' + max);
 
                 if (!!triggerOnInput) {
 	                $(document).on("input", selector, function() {
-		                setEqualHeight(selector, false)
+		                setEqualHeight(selector, false, maxHeight)
 
 	                })
                 }
 
                 $(window).resize(function() {
-	                setEqualHeight(selector, false)
+	                setEqualHeight(selector, false, maxHeight)
                 })
             }
 
@@ -91,12 +93,12 @@ modified: 2015-11-08
             lngAvg = 0;
 
             var eduAddr = ["Elkhorn, NE", "Golden, CO", "Santa Barbara, CA"];
-            var expAddr = ["Golden, CO", "Golden, CO", "Milpitas, CA"];
+            var expAddr = ["Golden, CO", "Golden, CO", "Milpitas, CA", "Denver, CO"];
             var addresses = eduAddr.concat(expAddr); // [place name, latLng]
             var eduNames = ["Elkhorn High School", "Colorado School of Mines", "University of California, Santa Barbara"]
-            var expNames = ["CSM Hydrate Lab", "NREL", "NuvoSun"];
+            var expNames = ["CSM Hydrate Lab", "NREL", "NuvoSun", "Freelance"];
             var eduPos = ["H.S. Degree", "B.S. Chemical Engineering", "PhD Chemical Engineering"]
-            var expPos = ["CSM Research Assistant", "NREL Research Assistant", "Solar Cell Device Process Engineer"];
+            var expPos = ["CSM Research Assistant", "NREL Research Assistant", "Solar Cell Device Process Engineer", "Entrepreneur"];
             var eduAwards = [[],
                                 [
                                     ["Tau Beta Pi Engineering Honor Society", 2007],
@@ -127,14 +129,15 @@ modified: 2015-11-08
             var posters = [["Materials Research Outreach Program", "UCSB", "2011, 2012, 2013"], ["Gordon Conference for Solid State Chemistry", "New London, NH", "2012"], ["International Workshop on Materials", "Ras As Khaimah Center for Advanced Materials, UAE", "2011"], ["Materials Research Society Fall Meeting", "Boston, MA", "2010"]] // event, place, year(s)
             var presentations = [["North American Solid-State Chemistry Conference,", "McMaster University, Ontario, Canada", "2011"], ["The 9th International Meeting of Pacific Rim Ceramic Societies", "Cairns, Queensland, Australia", "2011"], ["Institute of Chemistry of Picardy", "Amiens, France", "2011"], ["IGERT winter symposium", "UCSB", "2012"], ["Materials Research Outreach Program", "UCSB", "2013"], ["AICHE conference", "San Francisco, CA", "2013"]] // event, place, year
             var mentees = [["Nick DeCino", 2013], ["Lucie Devys", 2012], ["Jose Carvalho", 2012], ["Courtney Doll", 2011], ["Lucy Darago", 2010-2011], ["Adam Jaffe", 2010], ["Rory Barker", 2010]]
-            var expDescr = ["Assisted with research of inter-particle adhesion forces of hydrate particles in order to better understand plugging and flow behavior of oil and gas pipelines.", "Assisted with research concerning water vapor transport and mechanical properties of transparent conductive oxide (TCO) layers for use in flexible electronics. Also fabricated thin-film TCO samples for testing and analysis using a high-vacuum apparatus.", "Responsible for upkeep, running, and improving the sputtering processes for manufacturing CIGS solar cells. Big data analysis and correlation to experimental conditions (using python and JMP), automation through programming, machine vision, and building software/hardware improvements for the manufacturing line."]
+            var expDescr = ["Assisted with research of inter-particle adhesion forces of hydrate particles in order to better understand plugging and flow behavior of oil and gas pipelines.", "Assisted with research concerning water vapor transport and mechanical properties of transparent conductive oxide (TCO) layers for use in flexible electronics. Also fabricated thin-film TCO samples for testing and analysis using a high-vacuum apparatus.", "Responsible for upkeep, running, and improving the sputtering processes for manufacturing CIGS solar cells. Big data analysis and correlation to experimental conditions (using python and JMP), automation through programming, machine vision, and building software/hardware improvements for the manufacturing line.", "Freelance entrepreneur, developing LED lighting, hydroponic, lighter-than-air airship, and farm automation technologies.  Contract tutorial writing for SparkFun electronics (Particle Photon farm automation)"]
             var expMentors = ["Mentors: Carolyn Koh and Dendy Sloan", "Mentors: Lin Simpson and Arrelaine Dameron", "Managers: Don Person and Art Wall"]
             var eduDates = [[new Date([2001,7,15]), new Date(2005,4,1)],
                        [new Date([2005,7,1]), new Date(2009,4,1)],
                        [new Date([2009,8,1]), new Date(2013,11,20)]]
             var expDates = [[new Date([2007,8,1]), new Date(2008,7,1)],
                             [new Date([2008,8,1]), new Date(2009,5,1)],
-                            [new Date([2014,6,1]), new Date(2015,7,12)]]; // [start, end date]
+                            [new Date([2014,6,1]), new Date(2015,7,12)],
+                            [new Date([2015,8,12]), new Date()]]; // [start, end date]
             var dates = eduDates.concat(expDates);
             var descriptions = eduDescr.concat(expDescr);
             var positions = eduPos.concat(expPos);
@@ -150,12 +153,12 @@ modified: 2015-11-08
             //google.load("visualization", "1", {packages:["timeline"]});
             google.charts.load( '43', {packages: ['timeline', 'bar']});
           
-			/* skills bar charts */
-            var progData = [["Techincal Writing/Communications", 5], ["Python", 5], ["C++, C#, C", 3], ["ESP8266/Lua IoT Devices", 5], ["Particle Photon IoT", 4], ["Linux/bash", 4], ["MS Office", 5], ["Latex", 5], ["JMP", 3], ["HTML", 5], ["Matlab", 3], ["Mathematica", 2], ["Visual Basic", 2], ["Javascript", 3], ["Machine Vision", 3], ["SolidWorks", 2],["Electronic/mechanical prototyping", 4]];
+            /* skills bar charts */
+            var progData = [["Particle Photon IoT", 5], ["Techincal Writing/Communications", 5], ["Python", 5], ["C++, C#, C", 3], ["ESP8266/Lua IoT Devices", 5], ["MS Office", 5], ["Latex", 5], ["Linux/bash", 4], ["JMP", 3], ["HTML", 5], ["Matlab", 3], ["Mathematica", 2], ["Visual Basic", 2], ["Javascript", 3], ["Machine Vision", 3], ["SolidWorks", 2],["Electronic/mechanical prototyping", 4]];
             labels1 = [['Skill', 'Self rating']];
             
-            var scienceData = [["High-temp solid-state chemistry", 5], ["Solid-state NMR", 5], ["X-ray/Nuetran diffraction and anaylisis", 5], ["Photoluminescence", 5], ["Quantum yield", 4], ["XANES/EXAFS", 4], ["ESR", 4], ["SEM", 3], ["Optical Emission Spectroscopy (OES)", 5], ["Sputter Deposition", 4]];
-			labels2 = [['Skill', 'Self rating']];
+            var scienceData = [["High-temp solid-state chemistry", 5], ["Solid-state NMR", 5], ["X-ray/Nuetran diffraction and anaylisis", 5], ["Photoluminescence", 5], ["Quantum yield", 4], ["XANES/EXAFS", 4], ["ESR", 4], ["SEM", 3], ["Optical Emission Spectroscopy (OES)", 5], ["Sputter Deposition", 4], ["PVD", 3]];
+            labels2 = [['Skill', 'Self rating']];
 		
             var progArray = labels1.concat(progData.sort(function(a,b){
                 return b[1] - a[1];
