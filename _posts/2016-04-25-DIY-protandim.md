@@ -2,7 +2,7 @@
 layout: post
 title: DIY protandim
 description: "make your own Protandim for cheap"
-modified: 2016-4-25
+modified: 2016-5-13
 tags: [medicine, pills, herbs, plants, extracts]
 image:
   feature: spice mix cropped.jpg
@@ -10,7 +10,7 @@ image:
 
 ## Protandim
 
-Recently I was introduced to a nutriceutical called [Protandim by a company called LifeVantage](http://www.lifevantage.com/).  The company works via [Network Marketing (Multi-level Marketing, MLM)](https://en.wikipedia.org/wiki/Multi-level_marketing) someone who's already a distrubuter in the company can help you sign up, and they make you [watch this video first](https://www.youtube.com/watch?v=LTBpSjiTWv0).  There's also this [video by Joe McCord](https://www.youtube.com/watch?v=_45LiaZzt8w&feature=youtu.be), who was a scientist involved in the study (and maybe development, I'm unsure).  Of course, I was skeptical of the product, and still am (especially after reading the [wiki article on the scientific research](https://en.wikipedia.org/wiki/Protandim#Research)).  The whole company gives me a weird cult-like vibe, and comes off a bit scammy to me.
+Recently I was introduced to a nutriceutical called [Protandim by a company called LifeVantage](http://www.lifevantage.com/).  The company works via [Network Marketing (Multi-level Marketing, MLM)](https://en.wikipedia.org/wiki/Multi-level_marketing) someone who's already a distrubuter in the company can help you sign up, and they make you [watch this video first](https://www.youtube.com/watch?v=LTBpSjiTWv0).  There's also this [video by Joe McCord](https://www.youtube.com/watch?v=_45LiaZzt8w&feature=youtu.be), who was a scientist involved in the study (and maybe development, I'm unsure).  Of course, I was skeptical of the product, and still am (especially after reading the [wiki article on the scientific research](https://en.wikipedia.org/wiki/Protandim#Research)).  The whole company gives me a weird cult-like vibe, and comes off as a bit scammy to me.
 
 When I went to buy a bottle on the site, the payment page looked like this:
 
@@ -54,7 +54,7 @@ The overall recipe turned out to be:
 | honey                           | 3 1/4     | cups |
 
 I haven't added the cost of any other seeds yet.  Sunflower seeds are super cheap though.
-I have yet to try this recipe, I will as soon as the ingredients arrive, and then update.
+So far, I've tried this with honey, turmeric, ashwagandha, and green tea.  Everything was alright, except the turmeric powder stained my tongue a nasty yellow.  Since the amount of active ingredient (curcumin) in turmeric is very low ([3% curcumin](http://www.ncbi.nlm.nih.gov/pubmed/17044766)), it makes more sense to buy the extract, at least for turmeric.  However, as soon as you use turmeric extract and ashwagandha powder together, technically, you are violating [the patent](https://www.google.com/patents/US7923045?dq=protandim&hl=en&sa=X&ved=0ahUKEwjIp_SvgavMAhXHxIMKHeCTD5IQ6AEIHDAA).
 
 
 Here's a cost breakdown.
