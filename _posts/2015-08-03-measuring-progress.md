@@ -15,7 +15,7 @@ published: true
 
 ### If you can measure it, you can manage it.
 
-That was something I heard a former Wal-Mart CEO, Mike Duke, say at the WSJ [ECO:nomics](http://economics.wsj.com/) 2014 conference; "If you can measure it, you can manage it."  I think it's best to measure everything we can, and ideally our progress in different aspects of our life.
+That was something I heard a former Wal-Mart CEO, Mike Duke, say at the WSJ [ECO:nomics](http://economics.wsj.com/){:target="_blank"} 2014 conference; "If you can measure it, you can manage it."  I think it's best to measure everything we can, and ideally our progress in different aspects of our life.
 
 So how do you measure progress?
 
@@ -27,9 +27,9 @@ It made me reflect on how I measure progress in my own life--day to day, hour by
 How do you measure progress?  Probably the best way is by tracking how you spend your time, and tracking results--but this proves difficult.  For one, I rapidly switch tasks all the time, being a bit ADD.  Secondly, my tasks are spread out over computers, phones, and the physical 
 world.  Thirdly, it's a pain to log all of that manually.  Obviously, it should be automatic so I don't even have to think about it.
 
-Monitoring progress of physical excercise would probably be the easiest--I could have a beacon on my exercise equipment, or some sort of device that measures heart rate or something like that.  It would track the time exercised, and use my phone to get distance/altitude travelled to see if my speed is increasing with more exercise.  For computer/phone work, there are [numerous apps](http://www.fastcompany.com/3024249/10-time-tracking-apps-that-will-make-you-more-productive-in-2014) out there to track your progress.  For programming, github, bitbucket, etc can be used and analyzed.  For reading, I've wanted to build an app that tracks how fast I read, but haven't started.  If you're trying to lose weight, you can use an IoT scale.  For money, there's Mint, or other, [open-source alternatives](http://alternativeto.net/software/mint/?license=free) (which don't fund lobbying to further complicate the US tax code 
+Monitoring progress of physical excercise would probably be the easiest--I could have a beacon on my exercise equipment, or some sort of device that measures heart rate or something like that.  It would track the time exercised, and use my phone to get distance/altitude travelled to see if my speed is increasing with more exercise.  For computer/phone work, there are [numerous apps](http://www.fastcompany.com/3024249/10-time-tracking-apps-that-will-make-you-more-productive-in-2014){:target="_blank"} out there to track your progress.  For programming, github, bitbucket, etc can be used and analyzed.  For reading, I've wanted to build an app that tracks how fast I read, but haven't started.  If you're trying to lose weight, you can use an IoT scale.  For money, there's Mint, or other, [open-source alternatives](http://alternativeto.net/software/mint/?license=free){:target="_blank"} (which don't fund lobbying to further complicate the US tax code 
 for the benefit of tax-preparers, like Intuit (owner of Mint)).
-For projects and building things, theres [scrumy](https://scrumy.com/), [asana](https://asana.com/), etc to track how much and how fast you've done it.
+For projects and building things, theres [scrumy](https://scrumy.com/){:target="_blank"}, [asana](https://asana.com/){:target="_blank"}, etc to track how much and how fast you've done it.
 
 The other reason I want to measure progress is for profit-sharing of open-source hardware and software.  I want to be able to track the progress I and others 
 make on the open-source creations, so the profit from them can properly be doled out.
