@@ -18,7 +18,7 @@ The Colorado DOR [published a report](https://www.google.com/url?sa=t&rct=j&q=&e
 
 ![adjusted users](/images/colorado market share/adjusted users.jpg){: .center-image }
 
-There are about 200,000 people in Colorado who use marijuana on a daily basis, and they consume about 1 pound per year.  I'm really curious to know the demographics of these people, and if there are many successful people in that crowd, or people with high incomes.  Right now it's hard to say what this average daily user looks like.  I'd guess mostly male and an average income level.
+There are (probably) about 200,000 people in Colorado who use marijuana on a daily basis, and they consume about 1 pound per year.  I'm really curious to know the demographics of these people, and if there are many successful and/or intelligent people in that crowd, and what the distribution of incomes of that crowd looks like.  Right now it's hard to say what this average daily user looks like.  I'd guess mostly male and an average to low income level.
 
 ![usage table](/images/colorado market share/usage table.jpg){: .center-image }
 
