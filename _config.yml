@@ -10,7 +10,7 @@
 # bundle exec jekyll serve --baseurl
 # on ubuntu:
 # jekyll serve
-title:            Nate G
+title:            Dr. G
 description:      Nate G's personal site
 disqus_shortname: wordsforthewise
 reading_time:     true
