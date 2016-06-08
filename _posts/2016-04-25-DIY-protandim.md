@@ -18,12 +18,12 @@ When I went to buy a bottle on the site, the payment page looked like this:
 
 What's with the "...secured by CHASE" line.  Doesn't look very official or reassuring...When I then went to cancel my monthly autoship, I had to call in to the company.  This also makes it feel like a scam to me, or at least slimy and not straightforward.
 
-There seems to be a lot of conflicting viewpoints out there about the drug, like [this](http://protandimretort.com/protandim-dr-mccord-inventor-vs-paul-myhill/){:target="_blank"} vs [this](http://xuworldwide.com/wp-content/uploads/2014/08/Lifevantage-Written-by-LazyMan.pdf){:target="_blank"} and [this](https://www.sciencebasedmedicine.org/brief-update-protandim/){:target="_blank"}.  There's also [this article](http://web.archive.org/web/20101114031418/http://www.lazymanandmoney.com/lifevantage-protandim-scam) that LifeVantage sued to have removed from the internet, calling it slander or false information, I think.  There's a number of other reviews I've found ([1](http://supplement-geek.com/protandim-research-review-lifevantage/){:target="_blank"}, [2](http://themedicineguy.com/protandim-life-extender-or-money-waster/){:target="_blank"}, [3](https://www.sciencebasedmedicine.org/protandim-another-kind-of-antioxidant/){:target="_blank"}) that generally don't have a strong opinion one way or another.  There's a ton of [youtube videos](https://www.youtube.com/results?search_query=protandim){:target="_blank"} on the subject, of course.
+There seems to be a lot of conflicting viewpoints out there about the drug, like [this](http://protandimretort.com/protandim-dr-mccord-inventor-vs-paul-myhill/){:target="_blank"} vs [this](http://xuworldwide.com/wp-content/uploads/2014/08/Lifevantage-Written-by-LazyMan.pdf){:target="_blank"} and [this](https://www.sciencebasedmedicine.org/brief-update-protandim/){:target="_blank"}.  There's also [this article](http://web.archive.org/web/20101114031418/http://www.lazymanandmoney.com/lifevantage-protandim-scam){:target="_blank"} that LifeVantage sued to have removed from the internet, calling it slander or false information, I think.  There's a number of other reviews I've found ([1](http://supplement-geek.com/protandim-research-review-lifevantage/){:target="_blank"}, [2](http://themedicineguy.com/protandim-life-extender-or-money-waster/){:target="_blank"}, [3](https://www.sciencebasedmedicine.org/protandim-another-kind-of-antioxidant/){:target="_blank"}) that generally don't have a strong opinion one way or another.  There's a ton of [youtube videos](https://www.youtube.com/results?search_query=protandim){:target="_blank"} on the subject, of course.
 
 The funny thing is the patents protecting Protandim ([here's one](https://www.google.com/patents/US7923045?dq=protandim&hl=en&sa=X&ved=0ahUKEwjIp_SvgavMAhXHxIMKHeCTD5IQ6AEIHDAA){:target="_blank"}) specify an *extract* must be used (except for ashwagandha), with some minimum amount of the active ingredient from each of the five ingredients.  Here's the ingredients, active chemicals, and amounts required:
 
 | Raw ingredient | Active Chemical(s) | Minimum dose of active chemical(s) | active material % of raw material | Corresponding Amount of Raw Ingredient
-| ------------- | ------------- | ------------- |
+| :-------------: | :-------------: | :-------------: |
 | Bacopa powder  | Bacosides  | 30 mg | 8% | 375 mg
 | Milk thistle powder or seeds  | Silymarin  | 158 mg | 2% | 7.9 g |
 | Ashwagandha powder  | [ashwagandhine, etc](https://www.mountainroseherbs.com/products/ashwagandha-root-powder/profile){:target="_blank"}  | 150 mg | 100% | 150 mg |
@@ -40,8 +40,8 @@ I tried mixing ashwagandha with about 5x honey, and it was still pretty bitter a
 The overall recipe turned out to be:
 
 | servings                        | 30      |      |
-|---------------------------------|---------|------|
-| item                            | amount  | unit |
+|:---------------------------------|:---------:|:------:|
+| **item**                           | **amount**  | **unit** |
 | bacopa powder                   | 11.25   | g    |
 | milk thistle seeds              | 237     | g    |
 | ashwagandha powder              | 4.5     | g    |
@@ -60,7 +60,7 @@ So far, I've tried this with honey, turmeric, ashwagandha, and green tea.  Every
 Here's a cost breakdown.
 
 | item                    | cost  | g    | servings | cost/serving | % of cost | link                                                                                                                                                          |
-|-------------------------|-------|------|----------|--------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:-------------------------|:------:|:------:|:----------:|:--------------:|:-----------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | honey                   | $14.48 | 2260 | 62       | 0.23         | 36%       | [link](http://www.walmart.com/ip/Pure-N-Simple-100-Pure-Honey-80-oz/19857743?reviews_limit=10&){:target="_blank"}                                                                       |
 | bacopa powder           | $12.50  | 113  | 301      | 0.04         | 6%        | [link](http://www.ebay.com/itm/4-oz-Bacopa-Monnieri-Powder-Bacopa-Monnieri-113-g-25-lb-/181819981382?hash=item2a5550be46:g:idAAAOSwqu9VQSqS){:target="_blank"}                          |
 | milk thistle seeds      | $15.48 | 454  | 57       | 0.27         | 42%       | [link](http://www.ebay.com/itm/Milk-Thistle-Seeds-Organic-1-lb-Pkg-/182046952805?hash=item2a62d80d65:g:ViIAAOSwoBtW3c0N){:target="_blank"}                                          |
@@ -75,7 +75,7 @@ The honey and milk thistle are by far the most expensive components.  To drop th
 You can also order curcumin and milk thistle extract, so the amount of those powders isn't so high.  However, that is then violating the patent.  But it's not like they're going to come after you in your kitchen if you're mixing this up for yourself, not that I'm advocating that (because I legally can't, of course), but this wouldn't be that hard to make (hypothetically):
 
 | item                 | cost   | mass (g) | servings    | cost/serving | amount/serving |                                                                                                                                                                                  |
-|----------------------|--------|----------|-------------|--------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:----------------------|:--------:|:----------:|:-------------:|:--------------:|:----------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | honey                | $14.48 | 2260     | 301         | 0.048        | 7.500          | [link](http://www.walmart.com/ip/Pure-N-Simple-100-Pure-Honey-80-oz/19857743?reviews_limit=10&){:target="_blank"}                                                                                  |
 | bacopa extract       | $23.99 | 100      | 666.6666667 | 0.036        | 0.150          | [link](http://www.ebay.com/itm/Bacopa-Monnieri-50-1-Extract-Powder-50-Bacosides-Memory-Supplement-Free-Postage-/172087370558?var=&hash=item281134e33e:m:mOBY09syzLVzErfrYJhtwzw){:target="_blank"} |
 | milk thistle extract | $15.99 | 58       | 257.7777778 | 0.062        | 0.225          | [link](http://www.ebay.com/itm/Milk-Thistle-80-Silymarin-Natural-Seed-Extract-Powder-Silybum-marianum-/111742973795?var=&hash=item1a04667763:m:m-FMUtm6RFAOOtExOMnvWdw){:target="_blank"}          |
