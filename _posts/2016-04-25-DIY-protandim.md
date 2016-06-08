@@ -29,7 +29,7 @@ The funny thing is the patents protecting Protandim ([here's one](https://www.go
 | Ashwagandha powder  | [ashwagandhine, etc](https://www.mountainroseherbs.com/products/ashwagandha-root-powder/profile){:target="_blank"}  | 150 mg | 100% | 150 mg |
 | Green tea (matcha)  | polyphenol  | 74 mg | 10% | 0.74 g |
 | Turmeric powder  | curcumin  | 71 mg | 3% | 2.37 g |
-
+{:.mbtablestyle}
 
 I made the assumptions about amount of active ingredients from here: [bacopa - 8% bacosides](https://examine.com/supplements/bacopa-monnieri/){:target="_blank"}, [milk thistle seeds - 2% silymarin](https://examine.com/supplements/bacopa-monnieri/){:target="_blank"}, [green tea - 10% polyphenols](http://www.teatech.com/faqs.php){:target="_blank"}, [turmeric powder - 3% curcumin](http://www.ncbi.nlm.nih.gov/pubmed/17044766){:target="_blank"}.
 
