@@ -52,6 +52,7 @@ The overall recipe turned out to be:
 | honey                           | 1090.5  | g    |
 | honey                           | 768 | ml   |
 | honey                           | 3 1/4     | cups |
+{:.mbtablestyle}
 
 I haven't added the cost of any other seeds yet.  Sunflower seeds are super cheap though.
 So far, I've tried this with honey, turmeric, ashwagandha, and green tea.  Everything was alright, except the turmeric powder stained my tongue a nasty yellow.  Since the amount of active ingredient (curcumin) in turmeric is very low ([3% curcumin](http://www.ncbi.nlm.nih.gov/pubmed/17044766){:target="_blank"}), it makes more sense to buy the extract, at least for turmeric.  However, as soon as you use turmeric extract and ashwagandha powder together, technically, you are violating [the patent](https://www.google.com/patents/US7923045?dq=protandim&hl=en&sa=X&ved=0ahUKEwjIp_SvgavMAhXHxIMKHeCTD5IQ6AEIHDAA){:target="_blank"}.
@@ -69,6 +70,7 @@ Here's a cost breakdown.
 | turmeric powder         | $12.98 | 454  | 192      | 0.07         | 11%       | [link](http://www.ebay.com/itm/100-Pure-HIGHEST-QUALITY-1Lb-TURMERIC-ROOT-GROUND-POWDER-Curcuma-Longa-16oz-453g-/381532902602?hash=item58d52214ca:g:Gg0AAOSwpzdWqrYL){:target="_blank"} |
 |                         |       |      |          |              |           |                                                                                                                                                               |
 | total                   |       |      |          | 0.65         |           |    
+{:.mbtablestyle}
 
 The honey and milk thistle are by far the most expensive components.  To drop the price, milk thistle can be [bought at a discount at higher volumes](http://www.herbco.com/p-380-milk-thistle-seed-whole.aspx?test=zeros&utm_expid=8790734-0.3AeVqw8lSiWXCekb73M-rw.1&gclid=CjwKEAjwgPe4BRCB66GG8PO69QkSJAC4EhHhS3iCKx-efUbnlDksK3ApFaSmpyqYHM1l0yiEnYzGAhoCLyzw_wcB&utm_referrer=https%3A%2F%2Fwww.google.com%2F){:target="_blank"} (cut price is half at least), [so can honey](http://www.webstaurantstore.com/monarchs-choice-bakers-special-honey-60-lb-pail/789HONBAKE60.html?utm_source=Google&utm_medium=cpc&utm_campaign=GoogleShopping&gclid=CjwKEAjwgPe4BRCB66GG8PO69QkSJAC4EhHhy6P7wW0oKPYBUF5oEGUEJ9pddzW8uF8tHZOJdU44mBoC0kXw_wcB){:target="_blank"} (drop the price by 1/3).
 
@@ -84,6 +86,7 @@ You can also order curcumin and milk thistle extract, so the amount of those pow
 | curcumin powder      | $39.14 | 200      | 1333        | 0.029        | 0.150          | [link](http://www.ebay.com/itm/Turmeric-Curcumin-95-Piperine-Powder-Extract-Supplement-High-Bioavailability-/172003708801?){:target="_blank"}                                                      |
 |                      |        |          |             |              |                |                                                                                                                                                                                  |
 | total                |        |          |             | 0.19         | 8.250          |               
+{:.mbtablestyle}
 
 The total cost ends up being pretty cheap ($0.19 / day, about 1/7 of the cost of the Protandim pill at $1.33 / day), and the amount of honey is drastically reduced, meaning only 23 calories and 6 g of sugar from the honey, per day.  Compared with the cost of $1.33 / day for Protandim, this becomes much cheaper, but you would have to put in more labor.  The way I would make it is to combine the honey mixture with something else, bake it into bars, and cut up the bars to properly does out the mixture.  Easy and tasty.
 
