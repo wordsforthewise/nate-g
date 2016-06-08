@@ -62,18 +62,14 @@
 	th {
 	  border-bottom: solid;
  	  border-width: 4px 0;
+	  border-right: solid;
+	  border-left: solid;
 	}
-	th {
-	  border-top: none;
+	th:first-child {
+	  border-left: none;
 	}
-	tr:last-child {
-	  border-bottom: none;
-	}
-	td:first-child {
-	  border-top: none;
-	}
-	td:last-child {
-	  border-bottom: none;
+	th:last-child {
+	  border-right: none;
 	}
 }
 
