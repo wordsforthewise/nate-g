@@ -59,9 +59,21 @@
    > table, td, th {
         border: 1px solid black;
         }
-	tr:first-child {
+	th:first-child {
 	  border-bottom: solid;
- 	  border-width: 2px 0;
+ 	  border-width: 4px 0;
+	}
+	th:first-child {
+	  border-top: none;
+	}
+	tr:last-child {
+	  border-bottom: none;
+	}
+	td:first-child {
+	  border-top: none;
+	}
+	td:last-child {
+	  border-bottom: none;
 	}
 }
 
