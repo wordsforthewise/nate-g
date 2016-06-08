@@ -23,7 +23,7 @@ There seems to be a lot of conflicting viewpoints out there about the drug, like
 The funny thing is the patents protecting Protandim ([here's one](https://www.google.com/patents/US7923045?dq=protandim&hl=en&sa=X&ved=0ahUKEwjIp_SvgavMAhXHxIMKHeCTD5IQ6AEIHDAA){:target="_blank"}) specify an *extract* must be used (except for ashwagandha), with some minimum amount of the active ingredient from each of the five ingredients.  Here's the ingredients, active chemicals, and amounts required:
 
 | Raw ingredient | Active Chemical(s) | Minimum dose of active chemical(s) | active material % of raw material | Corresponding Amount of Raw Ingredient
-| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | 
+| :***-------------: | :***-------------: | :***-------------: | :***-------------: | :***-------------: | 
 | Bacopa powder  | Bacosides  | 30 mg | 8% | 375 mg
 | Milk thistle powder or seeds  | Silymarin  | 158 mg | 2% | 7.9 g |
 | Ashwagandha powder  | [ashwagandhine, etc](https://www.mountainroseherbs.com/products/ashwagandha-root-powder/profile){:target="_blank"}  | 150 mg | 100% | 150 mg |
