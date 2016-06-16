@@ -16,7 +16,7 @@ published: true
 
 ## Smoking makes you dumb...or does it?
 
-So it turns out smoking cannabis makes you stupid!  Or so some studies say (more need to be done of course.)  In [this study](http://www.pnas.org/content/109/40/E2657){:target="_blank"} ([referenced here](http://www.nature.com/news/drop-in-iq-linked-to-heavy-teenage-cannabis-use-1.11278){:target="_blank"} published in the well-respected scientific journal, PNAS, the authors tracked IQ and 
+So it turns out smoking cannabis makes you stupid!  Or so some studies say (more need to be done of course.)  In [this study](http://www.pnas.org/content/109/40/E2657){:target="_blank"} [(referenced here)](http://www.nature.com/news/drop-in-iq-linked-to-heavy-teenage-cannabis-use-1.11278){:target="_blank"} published in the well-respected scientific journal, PNAS, the authors tracked IQ and 
 amount of ganja smoked for 1000 people.  Major conclusions: smoking herb for 20+ years and starting before you are 18 will decrease your IQ by a full 10 points.
 The decrease is less severe if you don't start smoking until after 18, but the paper found any amount of smoking will cause a decrease in your IQ (basically a linear relationship between IQ and lifetime cannabis use).  
 
