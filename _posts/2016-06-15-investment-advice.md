@@ -18,6 +18,8 @@ As a first disclaimer, you should be careful picking individual stocks.  [Longbo
 
 You can always follow [Mr. Money Mustache's advice](http://www.mrmoneymustache.com/2011/05/18/how-to-make-money-in-the-stock-market/){:target="_blank"}, and only buy the S&P 500, which has been shown to always increase in the long term (holding for 10+ years).
 
+Stock picks from this article are EPD, NML, MMP, YELP, Bitcoin (buy on [Coinbase](coinbase.com){:target="_blank"}), and *maybe* SUN if you're feeling like getting into solar stocks.
+
 ## Oil is down, and midstream companies are undervalued
 
 [Douglas Kimmelman made the point](http://www.wsj.com/articles/two-bankers-discuss-their-energy-bets-1460502919){:target="_blank"} that low oil prices have dragged the entire oil and gas sector downward.  However, as he pointed out, midstream companies (those who make their money by transporting, storing, and wholesale marketing oil and gas) make their money by fees, and should not be as effected by low oil prices.  Therefore, he was saying midstream companies are a good buy now.  Do these guys have a conflict of interest because they're invested in midstream companies?  I don't know.  Last year was a huge sell-off for midstream companies and the whole oil and gas industry, and there are some [risks involved](http://www.naturalgasintel.com/articles/105182-midstream-mlps-continue-to-lose-favor-with-investors){:target="_blank"} in investing in the companies, of course.
@@ -27,7 +29,7 @@ You can always follow [Mr. Money Mustache's advice](http://www.mrmoneymustache.c
 
 Some of the stocks I recommend in this space are EPD, NML, MMP, PAA, and SXL in that order.  Here's [an article](https://www.thestreet.com/story/13310310/1/9-midstream-oil-companies-that-are-unfairly-beaten-down.html){:target="_blank"} detailing more on most of those stocks.
 
-# Details on the mentioned midstream stocks
+## Details on the mentioned midstream stocks
 The midstream stock I found that I really like is [NML (Neuberger Berman MLP Income Fund Inc)](https://www.google.com/finance?q=NYSEMKT%3ANML&ei=5g5iV8iRHNTDjAGp1JXQAw){:target="_blank"}.  They actually focus on gas, but they are on the upswing after a beatdown.  Another is [SXL (Sunoco Logistics Partners L.P.)](https://www.google.com/finance?q=NYSE%3ASXL&ei=8g5iV9nxFs-22Aaz24XIBA){:target="_blank"}, which is an oil and gas midstream company which seems to be going up again after a year-long sell-off.  One midstream stock that don't seem as discounted is [MMP (Magellan)](https://www.google.com/finance?q=NYSE%3AMMP&sq=Magellan&sp=1&ei=gyBiV_GeL8mPjAHxjbDYBg){:target="_blank"}, but they have solid EPS and a good P/E ratio.  There's also [PAA (Plains All American)](https://www.google.com/finance?q=NYSE%3APAA&ei=FCFiV4HKEYWyjAHxn6GwCw){:target="_blank"} which is paying crazy dividends of 3% right now, and has crashed (but still has a low EPS and high P/E, so be careful), [EPD (Entreprise Products)](https://www.google.com/finance?q=NYSE%3AEPD&sq=Enterprise%20Products&sp=2&ei=WyFiV8nfAsWtjAHcu6vABQ){:target="_blank"}, which seems to have a good balance of earnings, dividends, and a discounted price.  All of these stocks offer pretty high dividends, which is great in my opinion.  They're also paying higher dividends now because the stocks are down so much.
 
 ## Solar stocks
