@@ -12,6 +12,12 @@ image:
 
 A few months ago I was at the [Wall Street Journal Eco:nomics conference](http://economics.wsj.com/){:target="_blank"} in Santa Barbara.  It's a conference geared towards energy, economics, and the environment.  Some of the speakers were investment bankers and venture capitalists, as well as CEOs of many prominent companies like Ford, SunRun, Opower, Duke Energy, and a few politicians were thrown in for good measure.  I did walk away with a few nuggets of investment advice from these folks.
 
+As a first disclaimer, you should be careful picking individual stocks.  [Longboard research showed](https://www.consiliumcapital.com/insights/496179fb-b839-4375-9067-10d5e4ed0675){:target="_blank"} that nearly all US stock gains in the past 25 years were produced by just 20% of the total stocks--leaving you with pretty bad odds of success just randomly picking stocks.
+
+![stocks are hard](/images/longboard research.jpg){: .center-image}
+
+You can always follow [Mr. Money Mustache's advice](http://www.mrmoneymustache.com/2011/05/18/how-to-make-money-in-the-stock-market/){:target="_blank"}, and only buy the S&P 500, which has been shown to always increase in the long term (holding for 10+ years).
+
 ## Oil is down, and midstream companies are undervalued
 
 [Douglas Kimmelman that made the point](http://www.wsj.com/articles/two-bankers-discuss-their-energy-bets-1460502919){:target="_blank"} that low oil prices have dragged the entire oil and gas sector downward.  However, as he pointed out, midstream companies (those who make their money by transporting, storing, and wholesale marketing) make their money by fees, and should not be as effected by low oil prices.  Therefore, he was saying midstream companies are a good buy now.  Do these guys have a conflict of interest because they're invested in midstream companies?  I don't know.  Last year was a huge sell-off for midstream companies and the whole oil and gas industry, and there are some [risks involved](http://www.naturalgasintel.com/articles/105182-midstream-mlps-continue-to-lose-favor-with-investors){:target="_blank"} in investing in the companies, of course.
@@ -33,4 +39,14 @@ Lynn Jurich, CEO of SunRun says there's virtually unquenchable demand for what s
 ## Yelp
 I came across [this article](https://outfoxthestreet.whotrades.com/blog/43768380882?domain=s30095817685.whotrades.com){:target="_blank"}, which points out [Yelp](https://www.google.com/finance?q=yelp&ei=2CJiV9mGEMmPjAHxjbDYBg){:target="_blank"} has a lot of room to grow by selling ads. David Einhorn of Greenlight Capital also just bought 3.2 million shares worth over $60 million, so that's a good sign of investor confidence.  The stock is also down 70% from it's high in 2014, so it looks like a bargain right now.
 
+## Bitcoin!
+I nearly forgot about Bitcoin.  The halvening is happening ([in about 24 days](http://www.thehalvening.com/){:target="_blank"} from this posting), and if you don't know what that means, [read here](https://www.inverse.com/article/17006-why-did-bitcoin-hit-its-highest-price-in-two-years-the-halving-is-coming){:target="_blank"}.  The price has already increased about 30% in a week, and it's bound to be volatile, but my bets are that Bitcoin is actually a sound long-term investment.
 
+There's also the thought that [Chinese investors are driving up the price](http://www.zerohedge.com/news/2016-05-28/bitcoin-soaring-unprecedented-burst-chinese-buying){:target="_blank"}, and quite frankly, they have an assload of money to throw around.
+
+I like to use [bitcoinity](https://bitcoinity.org/markets){:target="_blank"} to watch the price, and [Coinbase](http://coinbase.com/){:target="_blank"} is my place to buy the stuff, which I recommend highly.
+
+![bitcoin](/images/bitcoin.jpg){: .center-image}
+
+# SPY, the S&P 500
+You could also follow [Mr. Money Mustache's investment advice](http://www.mrmoneymustache.com/2011/05/18/how-to-make-money-in-the-stock-market/){:target="_blank"}, which is just to buy the S&P 500.  I'm not sure now is the best time; for me, I would wait for it to go down 10-20% again before buying in.
