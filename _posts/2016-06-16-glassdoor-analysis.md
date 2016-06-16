@@ -14,13 +14,13 @@ Glassdoor is a great site for checking out potential companies and jobs, as peop
 
 ## The code
 
-Glassdoor, like most sites, doesn't like robots coming through and scraping up their valuable data.  Technically, scraping is usually against the terms of use of most websites, but if we're only doing it for one or two companies we apply to, I don't think it's that big of a deal.
+Glassdoor, like most sites, doesn't like robots coming through and scraping up their valuable data.  Technically, scraping is usually against the 'terms of use' of most websites, but if we're only doing it for one or two companies we apply to, I don't think it's that big of a deal.
 
 The code I wrote requires some manual intervention--when the site responds with a captcha, you have to refresh the Glassdoor site in your web browser.  This is explained in the comments in the relevant part of the code.  There are also [options for automating captcha forms](https://pypi.python.org/pypi/captcha-solver/0.0.3){:target="_blank"}.
 
 ```python
 # written for python3 and tested in ubuntu 16.04
-# you may need to change the cookFile variable for you cookies file location
+# you may need to change the cookFile variable for your cookies file location
 
 from pycookiecheat import chrome_cookies
 import os, re, lxml, requests, time
