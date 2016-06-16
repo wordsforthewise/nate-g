@@ -268,18 +268,18 @@ with open('pros 2 grams wordle.txt', 'w') as writeFile:
 Finally, the fun part!  I went to [wordle.net](http://www.wordle.net){:target="_blank"} and made these word clouds.  These span reviews all the way back to 2008, so I'll have to filter out the more recent reviews soon, and see what it looks like since 2013.  They changed CEOs in 2013 to [John Fallon](https://en.wikipedia.org/wiki/John_Fallon_(businessman)){:target="_blank"}, and the "brave, imaginative" phrase (in the 3-grams with punctuation) is part of a "brave, imaginative, and decent" thing that the former CEO,  [Marjorie Scardino](https://en.wikipedia.org/wiki/Marjorie_Scardino){:target="_blank"}, was all about.
 
 !['pro' words](/images/wordle - pearson 2 gram pros.png){: .center-image}
-Word cloud of the top 20 positive 2-word phrases from the 'pros' section of all Glassdoor reviews on Pearson.
+*<center>Word cloud of the top 20 positive 2-word phrases from the 'pros' section of all Glassdoor reviews on Pearson.</center>*
 
 !['con' words](/images/wordle - pearson 2 gram cons.png){: .center-image}
-Word cloud of the top 20 positive 2-word phrases from the 'pros' section of all Glassdoor reviews on Pearson.
+*<center>Word cloud of the top 20 positive 2-word phrases from the 'pros' section of all Glassdoor reviews on Pearson.</center>*
 
 I filtered out the junk 2-grams, but haven't done so yet for 3-grams, so they have some useless phrases in there.
 
 !['pro' words](/images/wordle - pearson 3 gram pros.png){: .center-image}
-Word cloud of the top 20 positive phrases from the 'pros' section of all Glassdoor reviews on Pearson.
+*<center>Word cloud of the top 20 positive phrases from the 'pros' section of all Glassdoor reviews on Pearson.</center>*
 
 !['con' words](/images/wordle - pearson 3 gram cons.png){: .center-image}
-Word cloud of the top 20 positive phrases from the 'pros' section of all Glassdoor reviews on Pearson.
+*<center>Word cloud of the top 20 positive phrases from the 'pros' section of all Glassdoor reviews on Pearson.</center>*
 
 Seems like some of the pros are tuition reimbursement, being laid back, making your own schedule, a resume builder, changing lives, and another one that wasn't quite in the top 20 was 'work from home'.
 
@@ -293,6 +293,6 @@ You can see I need to filter out useless phrases, like 'A lot of', etc.
 Their reviews on Glassdoor have been steadily going down:
 
 ![trend looks bad](/images/pearson rating trend.png){: .center-image}
-The rating trend is steadily downward.
+*<center>The rating trend is steadily downward.</center>*
 
 Only 25% of people from the company approve of the CEO, and only 36% recommend working there to a friend.  Yikes!
