@@ -2,7 +2,7 @@
 layout: post
 title: Glassdoor review analysis
 description: "gleaning information from glassdoor company reviews"
-modified: 2016-6-15
+modified: 2016-6-16
 tags: [natural language processing, nltk, python, programming, web scraping]
 image:
   feature: matrix.jpg
@@ -265,7 +265,7 @@ with open('pros 2 grams wordle.txt', 'w') as writeFile:
 ```
 
 # Results
-Finally, the fun part!  I went to [wordle.net](http://www.wordle.net){:target="_blank"} and made these word clouds.  These span reviews all the way back to 2008, so I'll have to filter out the more recent reviews soon, and see what it looks like since 2013.  They changed CEOs in 2013 to [John Fallon](https://en.wikipedia.org/wiki/John_Fallon_(businessman)){:target="_blank"}, and the "brave, imaginative" phrase is part of a "brave, imaginative, and decent" thing that the former CEO,  [Marjorie Scardino](https://en.wikipedia.org/wiki/Marjorie_Scardino){:target="_blank"}, was all about.
+Finally, the fun part!  I went to [wordle.net](http://www.wordle.net){:target="_blank"} and made these word clouds.  These span reviews all the way back to 2008, so I'll have to filter out the more recent reviews soon, and see what it looks like since 2013.  They changed CEOs in 2013 to [John Fallon](https://en.wikipedia.org/wiki/John_Fallon_(businessman)){:target="_blank"}, and the "brave, imaginative" phrase (in the 3-grams with punctuation) is part of a "brave, imaginative, and decent" thing that the former CEO,  [Marjorie Scardino](https://en.wikipedia.org/wiki/Marjorie_Scardino){:target="_blank"}, was all about.
 
 !['pro' words](/images/wordle - pearson 2 gram pros.png){: .center-image}
 Word cloud of the top 20 positive 2-word phrases from the 'pros' section of all Glassdoor reviews on Pearson.
@@ -295,4 +295,4 @@ Their reviews on Glassdoor have been steadily going down:
 ![trend looks bad](/images/pearson rating trend.png){: .center-image}
 The rating trend is steadily downward.
 
-Only 25% of people from the company approve of the CEO, and only 
+Only 25% of people from the company approve of the CEO, and only 36% recommend working there to a friend.  Yikes!
