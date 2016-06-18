@@ -295,4 +295,4 @@ Their reviews on Glassdoor have been steadily going down:
 ![trend looks bad](/images/pearson rating trend.png){: .center-image}
 *<center>The rating trend is steadily downward.</center>*
 
-Only 25% of people from the company approve of the CEO, and only 36% recommend working there to a friend.  Yikes!
+Only 25% of people from the company approve of the CEO, and only 36% recommend working there to a friend.  Yikes!  There was a massive restructuring in the last few year though, as everything is moving from print to digital.  Loads of people were laid off, and that doesn't bode well for reviews.  However, if your skills are in the digital realm, they're interested in you!
