@@ -8,7 +8,7 @@ image:
   feature: big bud cropped.jpg
 ---
 
-One business idea I've thought about (along with a million other people...) is a mostly-automated growbox for plants in general.  With the market price for marijuana so high (pun intended) at $1500-$4000 per pound, the first market that makes the most sense to go after is the cannabis crowd.  As I heard Elon Musk say about electric cars and startups in general: go for the high profit margin items (which are usually expensive). [Leaf](http://www.getleaf.co/){:target="_blank"} came out with a pretty stellar product aimed at cannabis users, so the only room to grow is by attacking a different niche, making it cheaper, or aestetically much different.  I decided to do a bit of market research on this to see what the possibilities are, and to understand the Colorado cannabis crowd.
+One business idea I've thought about (along with a million other people...) is a mostly-automated growbox for plants in general.  With the market price for marijuana so high (pun intended) at $1500-$4000 per pound, the first market that makes the most sense to go after is the cannabis crowd.  As I heard Elon Musk say about electric cars and startups in general: go for the high profit margin items *first* (which are usually expensive). [Leaf](http://www.getleaf.co/){:target="_blank"} came out with a pretty stellar product aimed at cannabis users, so the only room to grow is by attacking a different niche, making it cheaper, or aestetically much different.  I decided to do a bit of market research on this to see what the possibilities are, and to understand the Colorado cannabis crowd.
 
 ![paper title](/images/colorado market share/paper title.jpg){: .center-image }
 
