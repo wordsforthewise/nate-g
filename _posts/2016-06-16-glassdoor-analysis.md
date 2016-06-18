@@ -271,7 +271,7 @@ Finally, the fun part!  I went to [wordle.net](http://www.wordle.net){:target="_
 *<center>Word cloud of the top 20 positive 2-word phrases from the 'pros' section of all Glassdoor reviews on Pearson.</center>*
 
 !['con' words](/images/wordle - pearson 2 gram cons.png){: .center-image}
-*<center>Word cloud of the top 20 positive 2-word phrases from the 'pros' section of all Glassdoor reviews on Pearson.</center>*
+*<center>Word cloud of the top 20 negative 2-word phrases from the 'cons' section of all Glassdoor reviews on Pearson.</center>*
 
 I filtered out the junk 2-grams, but haven't done so yet for 3-grams, so they have some useless phrases in there.
 
@@ -279,7 +279,7 @@ I filtered out the junk 2-grams, but haven't done so yet for 3-grams, so they ha
 *<center>Word cloud of the top 20 positive phrases from the 'pros' section of all Glassdoor reviews on Pearson.</center>*
 
 !['con' words](/images/wordle - pearson 3 gram cons.png){: .center-image}
-*<center>Word cloud of the top 20 positive phrases from the 'pros' section of all Glassdoor reviews on Pearson.</center>*
+*<center>Word cloud of the top 20 negative phrases from the 'cons' section of all Glassdoor reviews on Pearson.</center>*
 
 Seems like some of the pros are tuition reimbursement, being laid back, making your own schedule, a resume builder, changing lives, and another one that wasn't quite in the top 20 was 'work from home'.
 
