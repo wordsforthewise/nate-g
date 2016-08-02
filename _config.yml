@@ -17,8 +17,8 @@ reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally, set url to blank or use http://localhost:4000 , for production: //wordsforthewise.github.io
-url: //wordsforthewise.github.io # for testing, use: http://localhost:4000 otherwise, //wordsforthewise.github.io
-baseurl: /wordsforthewise.github.io # make this line blank for testing... otherwise, /wordsforthewise.github.io
+url: //nateGeorge.github.io # for testing, use: http://localhost:4000 otherwise, //wordsforthewise.github.io
+baseurl: /nateGeorge.github.io # make this line blank for testing... otherwise, /wordsforthewise.github.io
 
 # Owner/author information
 owner:
@@ -29,9 +29,9 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         wordsforthewise
+  github:         nateGeorge
   stackexchange:  http://stackexchange.com/users/5764261/wordsforthewise
-  linkedin:       nateGisMe
+  linkedin:       nateG-ai
   instagram:      
   flickr:         
   tumblr:         
@@ -47,7 +47,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Chicago
+timezone:    America/Denver
 future:      true
 highlighter: pygments
 markdown:    kramdown
