@@ -5,12 +5,14 @@ description: "gleaning information from glassdoor company reviews"
 modified: 2016-6-16
 tags: [natural language processing, nltk, python, programming, web scraping]
 image:
-  feature: matrix.jpg
+  feature: wordle - pearson 2 gram pros.png
 ---
 
 ## Scraping Glassdoor
 
 Glassdoor is a great site for checking out potential companies and jobs, as people can leave anonymous reviews on there.  They have a [decent API](https://www.glassdoor.com/developer/index.htm){:target="_blank"}, but of course they don't let you get at the most valueable part--the reviews!  So, I did some Python programming to get at them for a company I applied to, and made word clouds of the top pros and cons.
+
+<!--more-->
 
 ## The code
 
@@ -32,7 +34,7 @@ baseurl = 'http://www.glassdoor.com'
 cookFile = os.path.expanduser('~/.config/google-chrome/Default/Cookies')
 
 cooks = chrome_cookies(baseurl, cookie_file = cookFile)
-    
+
 address = 'http://www.glassdoor.com/Reviews/Pearson-Reviews-E3322.htm'
 adds = [address]
 address_ranges = range(2, 168) # right now pages go like _P1, _P2, etc
@@ -80,7 +82,7 @@ for ad in adds:
     cooks = chrome_cookies(baseurl, cookie_file = cookFile)
     r = s.get(ad, headers = hdr, cookies=cooks)
     soup = bs(r.text, 'lxml')
-    
+
     reviews = soup.find(id='ReviewsFeed')
     while reviews == None:
         # it will think you're a bot and put up a captcha page, unless you set the time.sleep to a longer time
@@ -93,15 +95,15 @@ for ad in adds:
         soup = bs(r.text, 'lxml')
         soups.append(soup)
         reviews = soup.find(id='ReviewsFeed')
-    
+
     reviews = soup.find(id='ReviewsFeed')
     eachReview = reviews.findAll('div', class_='hreview')
-    
+
     for review in eachReview:
         cons.append(review.find('p', class_=re.compile('cons')).getText())
         pros.append(review.find('p', class_=re.compile('pros')).getText())
         times.append(review.find('time', class_=re.compile('date')).getText())
-    
+
     print('completed', ad)
     #time.sleep(3)
 
@@ -153,7 +155,7 @@ for pro in pros:
     for word in tempWords:
         prowords.append(word)
 
-        
+
 conwords_np = [word for word in conwords if word not in string.punctuation]
 conFreqs = nltk.FreqDist(conwords_np)
 proFreqs = nltk.FreqDist(prowords)
