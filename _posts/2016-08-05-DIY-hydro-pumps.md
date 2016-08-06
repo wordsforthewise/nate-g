@@ -58,6 +58,7 @@ Drill holes in the box.  I drilled 2 1/4" holes (you could use probably a 1/8" b
 ![installed pg7](/DIY_hydro_pump/pg7_installed.jpg){: .center-image}
 *<center>Install the PG-7.</center>*
 <!--more-->
+
 #### Buck converter
 
 In fact, this step is not necessary unless you are using a board that cannot accept 12V as an input.  Arduino Nanos can accept up to 20V as an input (7-12V recommended), so the buck isn't necessary for this.  But for MCUs like the NodeMCU or Particle Photon (which can only take 5V max in), the Buck is necessary.  Also, Bucks are typically 80-90%+ efficient, meaning you will use less power at 5V than at 12V for your Arduino.
