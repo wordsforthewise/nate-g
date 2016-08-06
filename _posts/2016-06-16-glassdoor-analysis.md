@@ -5,7 +5,7 @@ description: "gleaning information from glassdoor company reviews"
 modified: 2016-6-16
 tags: [natural language processing, nltk, python, programming, web scraping]
 image:
-  feature: wordle - pearson 2 gram pros.png
+  feature: "wordle - pearson 2 gram pros.png"
 ---
 
 ## Scraping Glassdoor

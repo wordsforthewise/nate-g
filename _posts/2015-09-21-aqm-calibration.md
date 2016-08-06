@@ -19,6 +19,8 @@ The first step is making sure the sensors are accurate enough for this purpose. 
 # Procedure
 ![calib-setup.jpg](/images/aqm-calibration/calib-setup.jpg){: .center-image }
 
+<!--more-->
+
 I built a small test setup, basically a stand for the Shinyei or Samyoung, with an Arduino UNO that runs the code to collect the data, and a piece of wood I light on fire to get some particles in the air.  Interestingly, the smoke from the fire shows up as >1um particles, but not as >5um particles.  [Two python scripts are run to save the data from the Dylos and Shinyei/Samyoung sensor.](https://github.com/wordsforthewise/shinyei-ppd42ns-arduino/tree/master/testing/with%20fan/calibration--serial%20data "correlations"){:target="_blank"}  [Another python script is then run afterwards to join the data togther and back out a correlation.](https://github.com/wordsforthewise/shinyei-ppd42ns-arduino/blob/master/testing/with%20fan/calibration--serial%20data/getSensorCorrelation.py "get correlation"){:target="_blank"}
 
 ## Results
@@ -38,4 +40,3 @@ Here's a comparison of the data from the Samyoung to data from a Dylos DC1700--p
 ## Conclusions
 
 It seems like the Samyoung isn't super reliable below ~1-2k counts, which explains why their data sheet doesn't have a correlation for particle counts/0.1 ft^3 below 2500 particles.  So far the Shinyei seems slightly better, but I haven't been able to verify the correlation from the datasheet.
-
