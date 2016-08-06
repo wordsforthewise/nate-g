@@ -23,6 +23,8 @@ published: true
 
 Make hydroponics pumps with timers (can be set to arbitrary time on/off).
 
+<!--more-->
+
 ### Parts
 
 To do this, you will need:
@@ -51,8 +53,6 @@ Drill holes in the box.  I drilled 2 1/4" holes (you could use probably a 1/8" b
 
 ![nano hole](/DIY_hydro_pump/nano_hole.jpg){: .center-image}
 *<center>Drill 2 1/4" holes next to each other and bust through the middle part with the drill bit to make it a uniform-width hole..</center>*
-
-<!--more-->
 
 ![pg7 hole](/DIY_hydro_pump/pg7_hole.jpg){: .center-image}
 *<center>Drill through the side with a 1/2" spade bit for the PG-7 cable gland.</center>*
