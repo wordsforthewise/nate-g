@@ -3,7 +3,7 @@
 # sudo apt-get install ruby ruby-dev make gcc nodejs
 # install ruby 2.0+ : http://stackoverflow.com/questions/18490591/how-to-install-ruby-2-on-ubuntu-without-rvm
 # sudo gem install jekyll --no-rdoc --no-ri
-# sudo gem install jekyll-sitemap jekyll-paginate jekyll-gist 
+# sudo gem install jekyll-sitemap jekyll-paginate jekyll-gist
 # (didn't work for me, doesn't seem necessary--requires ruby 2.2.2) sudo gem install github-pages --no-rdoc --no-ri
 
 # to test locally, run (windows):
@@ -27,14 +27,14 @@ owner:
   bio:            "I'm a PhD chemical engineer by training, who does a lot of coding, electrical engineering, and chemistry."
   email:          nathancgeorge@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
+  twitter:
+  facebook:
   github:         nateGeorge
   stackexchange:  http://stackexchange.com/users/5764261/wordsforthewise
   linkedin:       nateG-ai
-  instagram:      
-  flickr:         
-  tumblr:         
+  instagram:
+  flickr:
+  tumblr:
   google_plus:    +NathanGeorge-aesir
 
 # Background image to be tiled on all pages
@@ -42,9 +42,9 @@ background: bg2.png
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-53388616-2
-google_verify:      
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Denver
@@ -79,3 +79,7 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+
+---
+excerpt_separator: <!--more-->
+---
