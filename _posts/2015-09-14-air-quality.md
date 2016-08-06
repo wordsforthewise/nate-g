@@ -25,6 +25,8 @@ Do you clear your throat a lot?  Cough often?  Have congested nasal passages and
 
 It usually sneaks up on people (<a href="https://en.wikipedia.org/wiki/Boiling_frog" target="_blank">like slowly heating up the water to boil a frog</a>), <a href="http://www.stateoftheair.org/2013/health-risks/health-risks-particle.html" target="_blank"> but in cases with spikes of high amounts of particles, can cause death within days to weeks</a>.  Air pollution is getting more and more attention; the World Health Organization recently declared that 1 in 8 deaths is linked to air pollution, and "that air pollution is now the world’s largest single environmental health risk."  <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1637679/" target="_blank">Chronic exposure will give you cancer (the small particles have lots of surface area and free radicals that damage your body), and take off 1-3 years of your life.</a>  <a href="http://www.stateoftheair.org/2013/health-risks/health-risks-particle.html" target="_blank">Other impacts range from premature births to serious respiratory disorders, even when the particle levels are very low.</a>
 
+<!--more-->
+
 ### My air quality journey
 
 In the summer of 2014, I started getting some nasty sinus headaches.  I was living in the epicenter of Isla Vista, the student hood-rich ghetto of UCSB, in an old house built in the 1960's or earlier.  I had been smoking unfiltered cigarettes a bit (peer pressure to smoke in Isla Vista is overwhelming), and noticed the dust levels in my room seemed very high, although I never measured them.

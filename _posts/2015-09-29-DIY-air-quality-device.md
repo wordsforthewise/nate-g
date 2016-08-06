@@ -3,21 +3,17 @@ layout: post
 title: DIY Arduino/microcontroller air quality device
 description: Plans for cheap air quality monitors.
 modified: {}
-tags: 
+tags:
   - air quality
   - science
   - sensors
   - IoT
-image: 
+image:
   feature: "diy-aqm-wood-crop.jpg"
   credit: me
   creditlink: wordsforthewise.github.io
 published: true
 ---
-
-
-
-
 
 ### Summary
 
@@ -28,6 +24,8 @@ Fine particulate matter in the air from cars and trucks, cooking, fires, and ind
 Tiny particles in the air, generated from cars, trucks, powerplants, industry, and even cooking and burning fires at home, are causing cancer, heart attacks, and premature death among other ailments.
 
 The risk of getting lung and brochus cancer stand at [around 7% today](http://www.cancer.org/cancer/cancerbasics/lifetime-probability-of-developing-or-dying-from-cancer){:target="_blank"}, though around 80-90% of this is [thought to be due to smoking](http://www.cancer.org/cancer/cancercauses/tobaccocancer/tobacco-related-cancer-fact-sheet){:target="_blank"}.  
+
+<!--more-->
 
 Particulate pollution may be getting worse as our population grows and demands more transportation and energy (I don't have any numbers to on this currently, perhaps it is actually getting better from cleaner engines and powerplants).  Particularly dangerous are the tiny particulates less than 10 microns in size, especially those less than 2.5 microns in diameter (PM2.5).  These are about 100 times smaller than the width of a human hair, and can pass directly into the bloodstream, increasing risks for diseases like cancer and heart disease, among other things.  [An increase in concentration of PM2.5 by 10 ug/m3 (micrograms per meter cubed) equates to a 36% increase in lung cancer!](http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045%2813%2970279-1/abstract){:target="_blank"}  Coincidentally, the national average of PM2.5 in the US is [about this value.](http://wwwn.cdc.gov/CommunityHealth/profile/currentprofile/CA/Orange/310019){:target="_blank"}  China, with their horrible pollution (air and otherwise), has been witnessing cancer [becoming an epidemic.](http://www.dailymail.co.uk/news/article-2283212/Cancer-epidemic-hits-China-decades-pollution-spark-boom-disease.html){:target="_blank"}  And if you live near a major roadway, you've got a [slew of tiny particles bombarding you, shortening your life and decreasing your quality of life.](http://www.tandfonline.com/doi/abs/10.1080/10473289.2002.10470842){:target="_blank"}
 
@@ -92,7 +90,7 @@ Make sure to close your Arduino IDE program if open, and restart it to refresh t
 
 /**
  * I2C/IIC LCD Serial Adapter Module Example
- * 
+ *
  * Instructions at http://blog.mklec.com/how-to-use-iici2c-serial-interface-module-for-1602-lcd-display
  *
  * This uses the Liquid Crystal library from https://bitbucket.org/fmalpartida/new-liquidcrystal/downloads GNU General Public License, version 3 (GPL-3.0)
