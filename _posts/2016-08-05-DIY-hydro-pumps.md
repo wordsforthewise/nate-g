@@ -9,7 +9,7 @@ tags:
   - Arduino
   - automation
 image:
-  feature: "diy-aqm-wood-crop.jpg"
+  feature: "diy_hydro_pump.jpg"
   credit: me
   creditlink: nateGeorge.github.io
 published: true
