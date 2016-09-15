@@ -21,5 +21,4 @@ Prep data for time-series predictions using straight-up Python, Hadoop MapReduce
 
 <!--more-->
 
-Testing123
-<!--{% include bimbo_ML.html %}-->
+{% include bimbo_ML.html %}
