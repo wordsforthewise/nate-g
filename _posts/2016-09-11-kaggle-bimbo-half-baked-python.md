@@ -14,8 +14,8 @@ tags:
   - Apache
   - Scala
 image:
-  feature: "diy_hydro_pump.jpg"
-  credit: me
+  feature: "bimbo_logo.png"
+  credit: [kaggle](kaggle.com)
   creditlink: nateGeorge.github.io
 published: false
 ---
