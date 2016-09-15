@@ -2,7 +2,7 @@
 layout: post
 title: Doing data science: Grupo Bimbo deliveries
 description: Some analysis and an entry into the Kaggle Grupo Bimbo challenge.
-modified: 2016-9-11
+modified: 2016-9-15
 tags:
   - data science
   - machine learning
