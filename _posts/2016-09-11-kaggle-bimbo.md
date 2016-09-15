@@ -1,28 +1,19 @@
 ---
 layout: post
-title: Doing data science: Prepping data for LSTM AI Neural Networks
-description: Preparation and execution of an LSTM network on retail data.
-modified: 2016-8-15
+title: Doing data science: Grupo Bimbo deliveries
+description: Some analysis and an entry into the Kaggle Grupo Bimbo challenge.
+modified: 2016-9-11
 tags:
   - data science
-  - AI
-  - Artificial Intelligence
-  - Neural Networks
-  - Python
-  - Hadoop
-  - Spark
-  - Apache
-  - Scala
+  - machine learning
+  - R
+  - statistics
 image:
   feature: "bimbo_logo.jpg"
   credit: kaggle
   creditlink: kaggle.com
 published: true
 ---
-
-
-
-
 
 ### Summary
 
