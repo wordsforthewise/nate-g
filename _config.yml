@@ -16,9 +16,9 @@ disqus_shortname: wordsforthewise
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
-# When testing locally, set url to blank or use http://localhost:4000 , for production: //wordsforthewise.github.io
-url: //nateGeorge.github.io # for testing, use: http://localhost:4000 otherwise, //wordsforthewise.github.io
-baseurl: /nateGeorge.github.io # make this line blank for testing... otherwise, /wordsforthewise.github.io
+# When testing locally, set url to blank or use http://localhost:4000 , for production: //nateGeorge.github.io
+url: //nateGeorge.github.io #http://localhost:4000 # for testing, use: http://localhost:4000 otherwise, //nateGeorge.github.io
+baseurl: /nateGeorge.github.io # make this line blank for testing... otherwise, /nateGeorge.github.io
 
 # Owner/author information
 owner:
@@ -53,6 +53,7 @@ highlighter: pygments
 markdown:    kramdown
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
 sass:
   sass_dir: _sass
   style: compressed
@@ -68,7 +69,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: true
+  enable_coderay: true
 
   coderay:
     coderay_line_numbers: nil
