@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Doing data science: Grupo Bimbo deliveries
+title: Doing data science => Grupo Bimbo deliveries
 description: Some analysis and an entry into the Kaggle Grupo Bimbo challenge.
 modified: 2016-9-15
 tags:
@@ -9,15 +9,15 @@ tags:
   - R
   - statistics
 image:
-  feature: "bimbo_logo.jpg"
-  credit: kaggle
-  creditlink: kaggle.com
+  feature: "crop_rebanadas.jpeg"
+  credit: Walmart
+  creditlink: https://www.walmart.com/ip/Bimbo-Rebanadas-Fresa-Strawberry-Mp/135725089
 published: true
 ---
 
 ### Summary
 
-Prep data for time-series predictions using straight-up Python, Hadoop MapReduce, Spark with Scala (all on EC2s), and implement an LSTM neural network (also on an EC2).
+Learn how to use R to explore medium-big, real-world data sets, and how to train an XGBoost model to predict Grupo Bimbo's sales volume to individual customers.
 
 <!--more-->
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Doing data science: Prepping data for LSTM AI Neural Networks
+title: Doing data science--Prepping data for LSTM AI Neural Networks
 description: Preparation and execution of an LSTM network on retail data.
 modified: 2016-8-15
 tags:
@@ -15,7 +15,7 @@ tags:
   - Scala
 image:
   feature: "bimbo_logo.png"
-  credit: [kaggle](kaggle.com)
+  credit: kaggle
   creditlink: nateGeorge.github.io
 published: false
 ---

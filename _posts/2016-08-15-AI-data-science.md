@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Doing data science: Prepping data for LSTM AI Neural Networks
+title: Doing data science--Prepping data for LSTM AI Neural Networks
 description: Preparation and execution of an LSTM network on retail data.
 modified: 2016-8-15
 tags:
@@ -17,7 +17,7 @@ image:
   feature: "diy_hydro_pump.jpg"
   credit: me
   creditlink: nateGeorge.github.io
-published: true
+published: false
 ---
 
 
