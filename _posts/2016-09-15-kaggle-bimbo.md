@@ -17,7 +17,7 @@ published: true
 
 ### Summary
 
-Learn how to use R to explore medium-big, real-world data sets, and how to train an XGBoost model to predict Grupo Bimbo's sales volume to individual customers.
+Learn how to use R to explore medium-big, real-world data sets, and how to train an XGBoost model to predict Grupo Bimbo's sales volume for individual customers.
 
 <!--more-->
 
