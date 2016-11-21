@@ -19,12 +19,12 @@ published: true
 
 I scraped all of leafly.com's reviews, as well as 20,000 chemistry measurements of cannabis products.  I used the reviews to make a collaborative recommendation engine, as well as a similar-strain recommender (still in progress).  While studying the reviews and chemistry, I found that the reviews and chemistry data tend to group best into 3 groups.  Two of the groups are similar, but one is a high-CBD group that is talked about a lot for pain and anxiety.
 
-The app is live at [cannadvise.me](www.cannadvise.me){:target="_blank"}!
+The app is live at [cannadvise.me](http://www.cannadvise.me){:target="_blank"}!
 
 <!--more-->
 
 ### Motivation
-The idea for a cannabis recommender came when I started looking at leafly.com.  They had so many reviews and strains to look at, there's no way a normal human could ever do it.  I also saw a talk by a woman on cannabis big data, saying how a recommender system would be really nice for dispensaries, since they have rotating menus.  The recommender would suggest similar strains to people depending on what they ask for.
+The idea for a cannabis recommender came when I started looking at leafly.com.  They have so many reviews and strains to look at, it's overwhelming.  In fact, they have over 2000 strains/products (a few edibles and vape pens) listed in their 'strains' section.  I also saw a talk by a woman on cannabis big data, saying how a recommender system would be really nice for dispensaries, since they have rotating menus.  The recommender would suggest similar strains to people depending on what they ask for.
 
 ### Cannabis business growth
 [The legal cannabis business has grown in leaps and bounds lately](http://www.huffingtonpost.com/2015/01/29/marijuana-industry-growth-charts_n_6565604.html){:target="_blank"}.  Especially since legalization of retail ("recreational") stores in CO, and less-restricted use in other states, sales have been exploding, and are expected to further as more states legalize all facets of sales and consumption.
@@ -141,6 +141,18 @@ The group with low amounts of THC is the same small group above that was focused
     <a href="https://plot.ly/~nathangeo/83/" target="_blank" title="cbd_total" style="display: block; text-align: center;"><img src="https://plot.ly/~nathangeo/83.png" alt="cbd_total" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="nathangeo:83"  src="https://plot.ly/embed.js" async></script>
 </div>
+
+### Recommender
+
+I used the reviews to make a collaborative recommender engine with GraphLab.  This technique allows you to choose a number of 'latent features', and decompose a matrix of [users x products] into two matrices of dimensions [users x latent features] and [latent features x products].  I scored the model based on RMSE, and only used users with more than 2 reviews (for now).  I found 10 groups to work best, based on RMSE flattening out after 10 latent feature groups.  To get bag-of-words recommendations right now, it compares the words you choose (your bag) to the average tf-idf of each latent feature product group, and picks some of the top-most reviewed strains from that group.  It's not the best way to do it, but it works and is unique.
+
+This method was designed, however, to provide personalized recommendations to a user.  So I added that feature: you can enter a leafly username on one page of the site, and it will give you their ranked products they should try next, based on the factorization recommender.
+
+### Neural net regressor
+
+I also tried using a neural net (VGG-19 in Keras) to extract features from ~10,000 close-up images of cannabis flowers.  I then used a support vector regressor and boosted tree regressor to fit the features to the total cannabinoid percent.  Unfortunately, the R^2 was right around 0 -- in other words, just guess the mean level of cannabinoids.  We can see there's quite a bell-curve of THC concentration for the data I have access to, which I think explains this.  I think to make this work better, some intermediate layers of the neural net would have to be re-trained to capture unique features to this domain.
+
+![thc distribution](/images/thc.png){: .center-image }
 
 ### Out of time
 
