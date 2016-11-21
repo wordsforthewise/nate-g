@@ -38,6 +38,12 @@ Probably the biggest potential for cannabis is not on the "recreational" side of
 
 I found relevant strains by using the leafly.com reviews to look for terms related to the conditions the prescription pills treat--for example, for "pain" I found the strain with the highest tf-idf value for "pain".  It turns out that AC/DC is the most mentioned strain for these conditions.  This particular phenotype has very low THC (often less than 1%), and high CBD usually over 10% by weight.
 
+Some of the reviews on ACDC said:
+
+“...my go to for pain relief.”
+
+“...didn't get me high...had a migraine...within 2 hours it was 99% gone. Plus I felt relaxed and pleasant.”
+
 ### THC vs CBD
 THC (tetrahydrocannabinol) and CBD (cannabidiol) actually share the same number and type of atoms.  In fact, they only differ by one chemical bond.  However, their psychoactive effects differ greatly.  THC is known to get people 'high'; in other words, inebriate them, and bring about a state of euphoria.  Negative side effects can result from too much consumption (short- and long-term).  It can also have a variety of effects depending on the person and dosage -- typically it increases hunger, sleepiness, and sometimes paranoia.  CBD, on the other hand, has been known to reduce anxiety and pain.  CBD is also thought to reduce the negative effects of THC like paranoia and fuzzy-headedness.
 
