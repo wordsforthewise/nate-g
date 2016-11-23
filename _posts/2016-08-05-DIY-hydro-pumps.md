@@ -124,7 +124,7 @@ Solder a 330 Ohm resistor from the center leg (Base) to a female jumper.  This w
 
 Finally, solder the rightmost leg to a black wire, which will connect to the outside of a DC barrel jack for connecting to a pump.
 
-![transistor soldered](/DIY_hydro_pump/transistor_soldered.png){: .center-image}
+![transistor soldered](/DIY_hydro_pump/transistor_soldered.jpg){: .center-image}
 *<center>The transistor fully soldered with the resistors and female jumper.</center>*
 
 I then put some bigger heatshrink around the top of the transistors, to protect any exposed metal from accidental connections.
@@ -133,7 +133,7 @@ I then put some bigger heatshrink around the top of the transistors, to protect 
 
 Solder the black wire from the transistor Collector leg to the outside terminal of a male DC barrel jack for the pump.  Solder a red wire to the inner terminal of the male DC jack, and the other end to the positive input from the buck converter.
 
-![DC jack to pump](/DIY_hydro_pump/DC_jack_to_pump.png){: .center-image}
+![DC jack to pump](/DIY_hydro_pump/DC_jack_to_pump.jpg){: .center-image}
 *<center>Arduino and Buck installed.</center>*
 
 Solder the red wire from this DC jack to the red input power wire (coming from the Buck converter), and cover with in heatshrink.
@@ -142,7 +142,7 @@ Solder the red wire from this DC jack to the red input power wire (coming from t
 
 I installed multiple pumps and transistors, and so checked which one was which by plugging in the female jumpers to the 5V pin on the nano and finding which DC jack it triggered.  I then arranged the DC jacks from short to long, connecting the shortest DC jack to the D2 pin on the Nano, next shortest to D3, etc.
 
-![finished product](/DIY_hydro_pump/finished.png){: .center-image}
+![finished product](/DIY_hydro_pump/finished.jpg){: .center-image}
 *<center>The finished product, with the DC jacks arranged from shortest (D2 pin) to longest (D5 pin).</center>*
 
 {% highlight c++ %}
