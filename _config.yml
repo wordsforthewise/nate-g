@@ -17,7 +17,7 @@ reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally, set url to blank or use http://localhost:8888 , for production: //nateGeorge.github.io
-url: http://localhost:8888 #//nateGeorge.github.io #http://localhost:8888 # for testing, use: http://localhost:8888 otherwise, //nateGeorge.github.io
+url: nateGeorge.github.io #http://localhost:8888 #// #http://localhost:8888 # for testing, use: http://localhost:8888 otherwise, //nateGeorge.github.io
 baseurl: #/nateGeorge.github.io # make this line blank for testing... otherwise, /nateGeorge.github.io
 
 # Owner/author information
