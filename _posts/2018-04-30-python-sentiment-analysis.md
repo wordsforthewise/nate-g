@@ -11,7 +11,7 @@ image:
   feature: "sentiment.jpg"
   credit: me
   creditlink: nateGeorge.github.io
-published: true
+published: false
 ---
 
 ### Summary
