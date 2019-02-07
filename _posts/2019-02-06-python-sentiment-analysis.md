@@ -129,7 +129,12 @@ tb.sentiment_assessments
 
   form.addEventListener('submit', e => {
     e.preventDefault()
-    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+    fetch(scriptURL, { method: 'POST',
+                      body: new FormData(form),
+                      mode: 'cors',
+                      headers:{
+                      'Access-Control-Allow-Origin':'*'
+                      }})
       .then(response => console.log('Success!', response))
       .catch(error => console.error('Error!', error.message))
   })
