@@ -2,15 +2,15 @@
 layout: post
 title: Sentiment analysis
 description: A review of textblob's sentiment analysis, and a better way to do it with neural networks.
-modified: {}
+modified: 2019-04-06
 tags:
   - machine learning
   - sentiment analysis
   - data science
 image:
   feature: "sentiment.jpg"
-  credit: me
-  creditlink: nateGeorge.github.io
+  credit: BarnRaisers
+  creditlink: https://barnraisersllc.com/2017/01/best-tools-sentiment-analysis-free-fee/
 published: true
 ---
 
@@ -71,18 +71,6 @@ where we take the largest probability out of our predictions, and use that as ou
   <button type="submit">Send</button>
 </form>
 
-<script>
-  const scriptURL = 'https://script.google.com/macros/s/AKfycbxY49ErwyHKtnZm1TGyfT2WdS40i9z8JUtJmJUTsg3biK7lQDoS/exec'
-  const form = document.forms['submit-to-google-sheet']
-
-  form.addEventListener('submit', e => {
-    e.preventDefault()
-    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
-      .then(response => console.log('Success!', response))
-      .catch(error => console.error('Error!', error.message))
-  })
-</script>
-
 #### Small detail:
 [Here is the sentiment dictionary used the the `textblob` library](https://github.com/sloria/TextBlob/blob/90cc87ab0f9e25f37379079840ec43aba59af440/textblob/en/en-sentiment.xml).  Textblob adds a bit of complexity with ['assessments'](https://github.com/sloria/TextBlob/blob/dev/textblob/_text.py#L854), which are words with modifiers like 'not'.  I'm not sure where this is in the [docs](http://textblob.readthedocs.io/en/dev/index.html) exactly, but in the source code, it talks about it [here](https://github.com/sloria/TextBlob/blob/dev/textblob/_text.py#L661):
 
@@ -132,3 +120,17 @@ tb.subjectivity
 tb.sentiment_assessments
 
 {% endhighlight %}
+
+
+<script>
+  // form submission for emails to google sheets
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbxY49ErwyHKtnZm1TGyfT2WdS40i9z8JUtJmJUTsg3biK7lQDoS/exec'
+  const form = document.forms['submit-to-google-sheet']
+
+  form.addEventListener('submit', e => {
+    e.preventDefault()
+    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+      .then(response => console.log('Success!', response))
+      .catch(error => console.error('Error!', error.message))
+  })
+</script>
