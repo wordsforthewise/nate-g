@@ -50,7 +50,7 @@ bing_verify:
 timezone:    America/Denver
 future:      true
 highlighter: pygments
-markdown:    redcarpet #kramdown  # -- changed to try to get inline code working
+markdown:    kramdown
 gems:
   - jekyll-sitemap
   - jekyll-paginate
