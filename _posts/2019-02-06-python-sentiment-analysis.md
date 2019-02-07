@@ -64,7 +64,7 @@ Another way of writing this (identical to the sklearn explanation) is:
 $$ \hat{y} = argmax_y P(y) \prod_{i=1}^n P(x_i|y) $$
 {% endraw %}
 
-where we take the largest probability out of our predictions, and use that as our class prediction.  A detail which can make this incorrect is if we have two classes, we can set the threshold anywhere between 0 and 1 to choose our prediction, meaning our predicted class won't always be the max value.  This is related to [ROC/AUC](http://gim.unmc.edu/dxtests/roc3.htm).  Want to learn more about setting the best threshold for text classification/binary sentiment analysis?  Sign up for the email list to get notified when I publish more materials on ROC/AUC and training your own sentiment analysis classifiers:
+where we take the largest probability out of our predictions, and use that as our class prediction.  A detail which can make this incorrect is if we have two classes, we can set the threshold anywhere between 0 and 1 to choose our prediction, meaning our predicted class won't always be the max value.  This is related to [ROC/AUC](http://gim.unmc.edu/dxtests/roc3.htm).  Want to learn more about setting the best threshold for text classification/binary sentiment analysis?  Sign up for the email list to get notified when I publish more materials, including those on ROC/AUC and training your own sentiment analysis classifiers:
 
 <form name="submit-to-google-sheet">
   <input name="email" type="email" placeholder="Email" required>
