@@ -17,3 +17,6 @@ https://github.com/stephencelis/ghi/issues/221
 - change basurl in \_config.yml to be blank
 `bundle exec jekyll serve --watch --port 8888`
 https://stackoverflow.com/a/25261518/4549682
+
+## Email signups
+Used this page to setup email signups: https://github.com/jamiewilson/form-to-google-sheets
