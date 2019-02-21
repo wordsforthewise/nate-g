@@ -50,7 +50,7 @@ bing_verify:
 timezone:    America/Denver
 future:      true
 highlighter: pygments
-markdown:    kramdown
+markdown:    redcarpet #kramdown
 gems:
   - jekyll-sitemap
   - jekyll-paginate

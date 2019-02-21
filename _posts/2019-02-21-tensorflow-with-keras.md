@@ -73,7 +73,10 @@ sess.run(tf.local_variables_initializer())
 
 There are a few examples in a Github repo I created [here](https://github.com/nateGeorge/tensorflow_with_keras).  This uses the Cohen's Kappa metric from tf.contrib.
 
-#### One other small thing
+#### A  few other small things
+One other important thing for using TF metrics with Keras is you usually want the `op_update` object which is returned.  Most (maybe all) TF metrics will return a tuple.  The first part of the tuple is supposed to be the metric, and the second part an `op_update`.  However, I found with Keras, the TF metrics' `op_update` is the one that contains the actual metric value.  So as you can see in the codeblock above, I'm getting the second part of the tuple for my metric: `tf.contrib.metrics.cohen_kappa(y_true_classes, y_pred_classes, 10)[1]`.
+
+
 The other small thing I learned through this is that to get the inverse of a one-hot encoded vector, all you have to use is argmax.
 
 In the end, running TF with Keras turned out to be pretty simple.  All that needs to be done is to initialiaze the variables with `tf.local_variables_initializer()` after creating any code with TF functions, and before running `model.fit()`.  Again, this is only for certain TF functions that are creating/using TF variables within their source code.  Some other TF functions don't create any variables, so don't require the initialization.
