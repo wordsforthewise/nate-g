@@ -64,7 +64,7 @@ model.fit(x_train, y_train,
           validation_data=(x_test, y_test))
 ```
 
-All the examples I could find on the web (which weren't many) used the {% ihighlight python %} tf.global_variables_initializer() {% endihighlight %} function.  It turns out this no longer works (it must've worked in 2016 when Keras made their [blog post on the subject](https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html#using-keras-models-with-tensorflow)).  Now it seems it should be `tf.local_variables_initializer()`.  This can be run with Keras' backend, or with TF directly.  With Keras' backend, it looks like it does in the code sample above (`K.get_session()` gets the TF session).  Initializing the variables with TF directly would look more like:
+All the examples I could find on the web (which weren't many) used the `tf.global_variables_initializer()` function.  It turns out this no longer works (it must've worked in 2016 when Keras made their [blog post on the subject](https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html#using-keras-models-with-tensorflow)).  Now it seems it should be `tf.local_variables_initializer()`.  This can be run with Keras' backend, or with TF directly.  With Keras' backend, it looks like it does in the code sample above (`K.get_session()` gets the TF session).  Initializing the variables with TF directly would look more like:
 
 ```python
 sess = tf.Session()

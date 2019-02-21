@@ -1,81 +1,80 @@
-// Selection
-// --------------------------------------------------
-::-moz-selection { 
-	background-color: lighten($base-color, 65%); 
-	color: $base-color; 
-	text-shadow: none; 
-}  	
-::selection { 
-	background-color: lighten($base-color, 65%); 
-	color: $base-color; 
-	text-shadow: none; 
+/* ==========================================================================
+   Site utilities
+   ========================================================================== */
+
+/*
+   Selection
+   ========================================================================== */
+
+::-moz-selection {
+	background-color: lighten($base-color, 65%);
+	color: $base-color;
+	text-shadow: none;
 }
 
-// Global Classes
-// --------------------------------------------------
+::selection {
+	background-color: lighten($base-color, 65%);
+	color: $base-color;
+	text-shadow: none;
+}
+
+/*
+   Global classes
+   ========================================================================== */
+
+/* wrapper */
 .wrap {
 	margin: 0 auto;
 }
+
+/* capitalize */
 .all-caps {
 	text-transform: uppercase;
 }
+
+/* float image to the left */
 .image-left {
 	float: none;
 	@media #{$medium} {
 		float: left;
 	}
 }
+
+/* float image to the right */
 .image-right {
 	float: none;
 	@media #{$medium} {
 		float: right;
 	}
 }
+
+/* remove styling from a list element */
 .unstyled-list {
 	list-style: none;
 	margin-left: 0;
 	padding-left: 0;
+
 	li {
 		list-style-type: none;
 	}
 }
+
+/* inline a list */
 .inline-list {
 	list-style: none;
 	margin-left: 0;
 	padding-left: 0;
+
 	li {
 		list-style-type: none;
 		display: inline;
 	}
 }
-.center-image
-{
-    margin: 0 auto;
-    display: block;
-}
-.mbtablestyle {
-        border-collapse: collapse;
 
-   > table, td, th {
-        border: 1px solid black;
-        }
-	th {
-	  border-bottom: solid;
-	  border-top: none;
- 	  border-width: 4px 0;
-	  border-right: none;
-	  border-left: none;
-	}
-	th:first-child {
-	  border-left: none;
-	}
-	th:last-child {
-	  border-right: none;
-	}
-}
+/*
+   Global transition
+   ========================================================================== */
 
-// Global Transition
-// ---------------------------------------------------
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a {
-	@include transition(all .2s ease);
+	transition: all 0.2s ease;
 }

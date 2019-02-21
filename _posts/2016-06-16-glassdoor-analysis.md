@@ -10,7 +10,7 @@ image:
 
 ## Scraping Glassdoor
 
-Glassdoor is a great site for checking out potential companies and jobs, as people can leave anonymous reviews on there.  They have a [decent API](https://www.glassdoor.com/developer/index.htm){:target="_blank"}, but of course they don't let you get at the most valueable part--the reviews!  So, I did some Python programming to get at them for a company I applied to, and made word clouds of the top pros and cons.
+Glassdoor is a great site for checking out potential companies and jobs, as people can leave anonymous reviews on there.  They have a [decent API](https://www.glassdoor.com/developer/index.htm), but of course they don't let you get at the most valueable part--the reviews!  So, I did some Python programming to get at them for a company I applied to, and made word clouds of the top pros and cons.
 
 <!--more-->
 

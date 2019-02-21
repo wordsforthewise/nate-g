@@ -27,23 +27,23 @@ We can also train our own neural network on data, and add our own custom data --
 
 ### Classic models
 
-Let's begin with the simple model.  The *simplest* model is a lookup dictionary.  You take your words, then check if they are in your dictionary.  If you find the word in the dictionary, return the sentiment.  Here is an example of using the textblob lookup dictionary:
+Let's begin with the simple model.  The *simplest* model is a lookup dictionary.  You take your words, then check if they are in your dictionary.  If you find the word in the dictionary, return the sentiment.  Here is an example of using the `textblob` lookup dictionary:
 
-{% highlight python %}
+```python
 import textblob
 
 tb = textblob.TextBlob("this as not a good sentence and I don't like it :)")
 tb.sentiment_assessments
-{% endhighlight %}
+```
 
 This will output:
 
-{% highlight python %}
+```python
 Sentiment(polarity=0.07500000000000001, subjectivity=0.8, assessments=[(['not', 'goo
 d'], -0.35, 0.6000000000000001, None), ([':)'], 0.5, 1.0, 'mood')])
-{% endhighlight %}
+```
 
-We can see it has polarity (sentiment -- +1 is most positive, -1 most negative), subjectivity (0 is completely objective, i.e. factual; 1 is completely subjective, i.e. an opinion), and assessments.  The 'assessments' are each chunk textblob is using to assess the sentence.  The first phrase has a modifier -- 'not' -- which changes the score of the word 'good'.  'not' will flip the sign of the polarity (sentiment), and also multiplies it by 0.5 (because the original score for 'good' is 0.7 according to the [dictionary](https://github.com/sloria/TextBlob/blob/90cc87ab0f9e25f37379079840ec43aba59af440/textblob/en/en-sentiment.xml#L1097)).  The last thing which is None for 'not good' and 'mood' for the smiley is the ['semantic label'](https://github.com/sloria/TextBlob/blob/dev/textblob/_text.py#L680).  For [emoticons](https://github.com/sloria/TextBlob/blob/dev/textblob/_text.py#L223) in textblob, this is labeled a 'mood', for an exclamation mark in parenthesis, like (!), this is considered irony (making that assessment completely subjective).
+We can see it has polarity (sentiment -- +1 is most positive, -1 most negative), subjectivity (0 is completely objective, i.e. factual; 1 is completely subjective, i.e. an opinion), and assessments.  The 'assessments' are each chunk textblob is using to assess the sentence.  The first phrase has a modifier -- 'not' -- which changes the score of the word 'good'.  'not' will flip the sign of the polarity (sentiment), and also multiplies it by 0.5 (because the original score for 'good' is 0.7 according to the [dictionary](https://github.com/sloria/TextBlob/blob/90cc87ab0f9e25f37379079840ec43aba59af440/textblob/en/en-sentiment.xml#L1097)).  The last thing which is `None` for 'not good' and 'mood' for the smiley is the ['semantic label'](https://github.com/sloria/TextBlob/blob/dev/textblob/_text.py#L680).  For [emoticons](https://github.com/sloria/TextBlob/blob/dev/textblob/_text.py#L223) in textblob, this is labeled a 'mood', for an exclamation mark in parenthesis, like (!), this is considered irony (making that assessment completely subjective).
 
 As you can tell, the default sentiment analysis in textblob is very rule-based.
 
@@ -74,8 +74,7 @@ where we take the largest probability out of our predictions, and use that as ou
 #### Small detail:
 [Here is the sentiment dictionary used the the textblob library](https://github.com/sloria/TextBlob/blob/90cc87ab0f9e25f37379079840ec43aba59af440/textblob/en/en-sentiment.xml).  Textblob adds a bit of complexity with ['assessments'](https://github.com/sloria/TextBlob/blob/dev/textblob/_text.py#L854), which are words with modifiers like 'not'.  I'm not sure where this is in the [docs](http://textblob.readthedocs.io/en/dev/index.html) exactly, but in the source code, it talks about it [here](https://github.com/sloria/TextBlob/blob/dev/textblob/_text.py#L661):
 
-{% highlight python %}
-
+```python
 ### SENTIMENT POLARITY LEXICON #####################################################################
 # A sentiment lexicon can be used to discern objective facts from subjective opinions in text.
 # Each word in the lexicon has scores for:
@@ -93,15 +92,13 @@ where we take the largest probability out of our predictions, and use that as ou
 
 # Semantic labels are useful for fine-grained analysis, e.g.,
 # negative words + positive emoticons could indicate cynicism.
-
-{% endhighlight %}
+```
 
 #### Small detail: multiple entries in lookup dictionary
 
 Scores for words with multiple entries in the dictionary are [averaged](https://github.com/sloria/TextBlob/blob/dev/textblob/_text.py#L773).  This can be verified by checking out the subjectivity of the word [accurate](https://github.com/sloria/TextBlob/blob/90cc87ab0f9e25f37379079840ec43aba59af440/textblob/en/en-sentiment.xml#L51), which has 3 versions in the lookup dictionary.  The subjectivity score is 0.63333 (the average of 0.5, 0.6, and 0.8 -- the 3 values for 'accurate' in the lookup dictionary).  Here is example code you can use to verify this (I ran it in an IPython shell):
 
-{% highlight python %}
-
+```python
 import textblob
 
 # simplest example
@@ -118,8 +115,7 @@ tb.sentiment_assessments
 tb = textblob.TextBlob('this sentence is pretty accurate')
 tb.subjectivity
 tb.sentiment_assessments
-
-{% endhighlight %}
+```
 
 
 <script>

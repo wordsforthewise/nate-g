@@ -17,7 +17,7 @@ reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally, set url to blank or use http://localhost:8888 , for production: //nateGeorge.github.io
-url: //nateGeorge.github.io #http://localhost:8888 #// #http://localhost:8888 # for testing, use: http://localhost:8888 otherwise, //nateGeorge.github.io
+url: //nateGeorge.github.io #// http://localhost:8888 ##http://localhost:8888 # for testing, use: http://localhost:8888 otherwise, //nateGeorge.github.io
 baseurl: /nateGeorge.github.io # make this line blank for testing... otherwise, /nateGeorge.github.io
 
 # Owner/author information
@@ -35,7 +35,7 @@ owner:
   instagram:
   flickr:
   tumblr:
-  google_plus:    +NathanGeorge-aesir
+  google_plus:
 
 # Background image to be tiled on all pages
 background: bg2.png
@@ -49,13 +49,15 @@ bing_verify:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Denver
 future:      true
-highlighter: pygments
+highlighter: rouge #pygments
 markdown:    kramdown
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
-  - jekyll_inline_highlight
+  #- jekyll_inline_highlight
   - jekyll-include-cache
+  - jekyll-gist
+  - jekyll-feed
 sass:
   sass_dir: _sass
   style: compressed
@@ -67,20 +69,37 @@ permalink:   /:categories/:title/
 paginate: 5
 
 kramdown:
+  input: GFM
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  enable_coderay: true
+  enable_coderay: false
 
-  coderay:
-    coderay_line_numbers: nil
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
 
 excerpt_separator: <!--more-->
