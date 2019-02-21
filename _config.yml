@@ -54,6 +54,7 @@ markdown:    kramdown
 gems:
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll_inline_highlight
 sass:
   sass_dir: _sass
   style: compressed
