@@ -71,6 +71,8 @@ sess = tf.Session()
 sess.run(tf.local_variables_initializer())
 ```
 
+There are a few examples in a Github repo I created [here](https://github.com/nateGeorge/tensorflow_with_keras).
+
 #### One other small thing
 The other small thing I learned through this is that to get the inverse of a one-hot encoded vector, all you have to use is argmax.
 
