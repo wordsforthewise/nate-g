@@ -55,6 +55,7 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll_inline_highlight
+  - jekyll-include-cache
 sass:
   sass_dir: _sass
   style: compressed
