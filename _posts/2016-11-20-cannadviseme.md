@@ -19,7 +19,7 @@ published: true
 
 I scraped all of leafly.com's reviews, as well as 20,000 chemistry measurements of cannabis products.  I used the reviews to make a collaborative recommendation engine, as well as a similar-strain recommender (still in progress).  While studying the reviews and chemistry, I found that the reviews and chemistry data tend to group best into 3 groups.  Two of the groups are similar, but one is a high-CBD group that is talked about a lot for pain and anxiety.
 
-The app is live at [cannadvise.me](http://www.cannadvise.me){:target="_blank"}!
+The app was live at [cannadvise.me](http://www.cannadvise.me){:target="_blank"}, but I took it down so I wouldn't have to fund it.  However, there's a video overview [here](https://youtu.be/3ZUYT7WfBL4), and the GitHub code is [here](https://github.com/nateGeorge/canna-recommend).
 
 <!--more-->
 
@@ -136,7 +136,7 @@ I used k-means clustering to group the reviews.  Based on the silhoutte score, I
 I found group 0 to be focused on sleep and relaxation, group 1 focused more towards euphoria and uplifing effects, and group 2 was cbd, pain, and anxiety.  Group 2 was only about 5% of the total dataset of different phenotypes (strains).
 
 I also clustered the data by chemistry, and found again 3 groups is best.  
-The group with low amounts of THC is the same small group above that was focused on cbd, pain, and anxiety.  This is a high-CBD group, with strains like ACDC and Harlequin.
+The group with low amounts of THC is the same small group above that was focused on cbd, pain, and anxiety.  This is a high-CBD group, with strains like ACDC and Harlequin.  Note: I accidentally deleted the plotly plot when cleaning up my public plots, so this plot is a similar but slightly different one.
 
 <div>
     <a href="https://chart-studio.plot.ly/~nathangeo/49/" target="_blank" title="thc_total" style="display: block; text-align: center;"><img src="https://chart-studio.plot.ly/~nathangeo/49.png" alt="thc_total" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
