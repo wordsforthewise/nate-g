@@ -10,7 +10,7 @@ tags:
   - data science
 image:
   feature: "acdc.jpg"
-  credit: me
+  credit: [analytical360](http://analytical360.com/)
   creditlink: wordsforthewise.github.io
 published: true
 ---
