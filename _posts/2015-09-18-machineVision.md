@@ -7,7 +7,7 @@ tags: [cameras, machine vision, python, McGuyver]
 image:
   feature: MV-crop.jpg
   credit: me
-  creditlink: http://wordsforthewise.github.io
+  creditlink: ngeorge.us
 ---
 
 ### Python machine vision LCD OCR

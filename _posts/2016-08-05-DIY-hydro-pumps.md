@@ -11,7 +11,7 @@ tags:
 image:
   feature: "diy_hydro_pump.jpg"
   credit: me
-  creditlink: nateGeorge.github.io
+  creditlink: ngeorge.us
 published: true
 ---
 

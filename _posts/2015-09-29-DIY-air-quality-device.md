@@ -11,7 +11,7 @@ tags:
 image:
   feature: "diy-aqm-wood-crop.jpg"
   credit: me
-  creditlink: wordsforthewise.github.io
+  creditlink: ngeorge.us
 published: true
 ---
 

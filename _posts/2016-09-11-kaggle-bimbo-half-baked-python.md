@@ -16,7 +16,7 @@ tags:
 image:
   feature: "bimbo_logo.png"
   credit: kaggle
-  creditlink: nateGeorge.github.io
+  creditlink: ngeorge.us
 published: false
 ---
 

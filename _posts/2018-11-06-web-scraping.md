@@ -8,6 +8,6 @@ tags:
 image:
   feature: "sentiment.jpg"
   credit: me
-  creditlink: nateGeorge.github.io
+  creditlink: ngeorge.us
 published: false
 ---

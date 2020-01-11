@@ -7,7 +7,7 @@ tags: [nodeMCU, esp8266, IoT, programming]
 image:
   feature: nodemcu-kit-crop.jpg
   credit: me
-  creditlink: http://wordsforthewise.github.io
+  creditlink: ngeorge.us
 ---
 ## Developing with NodeMCU on Windows
 

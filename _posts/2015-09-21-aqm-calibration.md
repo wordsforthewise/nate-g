@@ -7,7 +7,7 @@ tags: [AQM, air quality, sensors, science]
 image:
   feature: calibratin.jpg
   credit: me
-  creditlink: http://wordsforthewise.github.io
+  creditlink: ngeorge.us
 ---
 
 ## Calibrating air quality sensors
