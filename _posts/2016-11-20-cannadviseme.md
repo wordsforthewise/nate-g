@@ -139,7 +139,7 @@ I also clustered the data by chemistry, and found again 3 groups is best.
 The group with low amounts of THC is the same small group above that was focused on cbd, pain, and anxiety.  This is a high-CBD group, with strains like ACDC and Harlequin.
 
 <div>
-    <a href="https://chart-studio.plot.ly/~nathangeo/49/" target="_blank" title="thc_total" style="display: block; text-align: center;"><img src="https://chart-studio.plot.ly/~nathangeo/89.png" alt="thc_total" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <a href="https://chart-studio.plot.ly/~nathangeo/49/" target="_blank" title="thc_total" style="display: block; text-align: center;"><img src="https://chart-studio.plot.ly/~nathangeo/49.png" alt="thc_total" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="nathangeo:89"  src="https://plot.ly/embed.js" async></script>
 </div>
 
