@@ -129,7 +129,7 @@ Soon I'll plot the reviews over time for certain strains, and some other EDA on 
 I used k-means clustering to group the reviews.  Based on the silhoutte score, I found 3 groups to be best for tf-idf of the reviews and of the chemistry data.  I used PCA to reduce dimensionality and enhance visualization of the data.  Here is the clustering by tf-idf of the full reviews:
 
 <div>
-    <a href="https://plot.ly/~nathangeo/47/" target="_blank" title="3 KMeans clusters of strains" style="display: block; text-align: center;"><img src="https://plot.ly/~nathangeo/47.png" alt="3 KMeans clusters of strains" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <a href="https://chart-studio.plot.ly/~nathangeo/47" target="_blank" title="3 KMeans clusters of strains" style="display: block; text-align: center;"><img src="https://chart-studio.plot.ly/~nathangeo/47.png" alt="3 KMeans clusters of strains" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="nathangeo:47"  src="https://plot.ly/embed.js" async></script>
 </div>
 
@@ -139,13 +139,8 @@ I also clustered the data by chemistry, and found again 3 groups is best.
 The group with low amounts of THC is the same small group above that was focused on cbd, pain, and anxiety.  This is a high-CBD group, with strains like ACDC and Harlequin.
 
 <div>
-    <a href="https://plot.ly/~nathangeo/89/" target="_blank" title="thc_total" style="display: block; text-align: center;"><img src="https://plot.ly/~nathangeo/89.png" alt="thc_total" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <a href="https://chart-studio.plot.ly/~nathangeo/49/" target="_blank" title="thc_total" style="display: block; text-align: center;"><img src="https://chart-studio.plot.ly/~nathangeo/89.png" alt="thc_total" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="nathangeo:89"  src="https://plot.ly/embed.js" async></script>
-</div>
-
-<div>
-    <a href="https://plot.ly/~nathangeo/83/" target="_blank" title="cbd_total" style="display: block; text-align: center;"><img src="https://plot.ly/~nathangeo/83.png" alt="cbd_total" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="nathangeo:83"  src="https://plot.ly/embed.js" async></script>
 </div>
 
 ### Recommender

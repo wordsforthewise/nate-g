@@ -13,10 +13,26 @@ published: false
 ---
 
 ### Summary
-Regis University was recently cyberattacked with ransomware.  The experience, my time at Regis, and the cybersecurity stories I've been listening to lately (from the darknet diaries podcast, but also from a cybersecurity conference) have helped me to understand how this probably happened.  Although Regis will probably never actually figure out how it happened due to a lack of expertise and lack of ability to pay for a top-tier cybersecurity firm to investigate the situation,  I'll do my best to summarize what I think happened, why the attack succeeded, and why Regis and many other universities will almost certainly be hacked again.
+Only a few days before the Fall semester was to start in August 2019, Regis University was suddenly attacked with ransomware.  IT panicked, and unplugged *everything*.  The wireless internet was down campus-wide.  Email was out.  The website was down, phones were off, and even parking payment stations were shut off.  And new Freshmen were *on there way* to campus to move in the next day.  It was a total cyber disaster.
+
+In this post, I'll describe why and probably how the attack happened.  I'll talk about why Regis and many other universities will almost certainly be hacked again.  I'll also provide suggestions for easy precautions organizations can take to prevent ransomware attacks.
+
+<!--more-->
 
 ### Background
 
+Everything was quiet on the cyber-front, but secretly lurking were some hackers that had gained access to the entirety of Regis University's systems.  They had access to *everything* -- student data, courses, practically every computer on campus -- but had waited until the optimal time to attack.  That time was a few days before the new Fall semester.  Fall semester is the busiest time for universities, because new Freshmen are moving in, faculty and students are getting back from summer break, and the new school year is about to begin.  Then, suddenly in the middle of the night on a Wednesday, the ransomware software was activated.  The next morning at work, someone probably received a popup similar to this wannacry popup:
+
+![wannacry popup](wannacry.jpg)
+Source: https://www.crowdstrike.com/epp-101/what-is-ransomware/
+
+However, the amount demanded was certainly much higher (probably in the 100s of thousands of dollars).  IT, of course, panicked.  Everything was unplugged.  I mean *everything*.  Internet was out campus-wide.  The website was down.  The phones were down.  You couldn't even use the printers.  Regis University was unreachable, completely offline, and new Freshmen were finishing up getting packed and ready to move into the dorms *the next day*.  This is what ground zero at a cyber-disaster looks like.
+
+# Timing
+The hackers had planned to install ransomware on Regis' systems, but had strategically waited until this crucial time to enact the ransomware in order to pressure Regis into paying up.  Unfortunately for these not-so-well-educated hackers, they didn't know that the overwhelming majority of US organizations [do not pay the ransom](https://www.malwarebytes.com/pdf/white-papers/UnderstandingTheDepthOfRansomwareIntheUS.pdf) for ransomware.  They should've looked at the data and paid those soft Canadians instead.  Who knows, maybe Canadian companies even apologize to the ransomers during the process.  Actually, from what I've read, it can be cheaper for an organization to pay the ransom to get on with business.  But then you are encouraging and funding criminals, which is not good.  Obviously, the best solution is to have good security to start with and avoid ransomware in the first place.
+
+# Communication
+So the timing of the attack was designed to get Regis to pay, but Regis didn't pay...probably.
 
 
 ### Bonus appendix: password strength
