@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Regis Randsomware
+title: Regis Ransomware
 description: A recount of how Regis probably got hacked and was ransomwared.
-modified: 2019-09-30
+modified: 2020-01-16
 tags:
   - cybersecurity
 image:
   feature: "shutdown.jpg"
   credit: Me
   creditlink: ngeorge.us
-published: true
+  published: true
 ---
 
 ### Summary
