@@ -23,7 +23,7 @@ Here, I'll describe why and how the attack probably happened.  I'll talk about w
 
 Everything was quiet on the cyber-front, but secretly lurking were some hackers that had gained access to the entirety of Regis University's systems.  They had access to *everything* -- student data, courses, practically every computer on campus -- but had waited until the optimal time to attack.  That time was a few days before the new Fall semester.  Fall semester is the busiest time for universities, because new Freshmen are moving in, faculty and students are getting back from summer break, and the new school year is about to begin.  Then, suddenly in the middle of the night on a Wednesday, the ransomware software was activated.  The next morning at work, someone probably received a popup similar to this wannacry popup:
 
-![wannacry popup](wannacry.jpg)
+![wannacry popup](/images/wannacry.jpg)
 Source: https://www.crowdstrike.com/epp-101/what-is-ransomware/
 
 However, the amount demanded was certainly much higher (probably in the 100s of thousands of dollars).  IT, of course, panicked.  Everything was unplugged.  I mean *everything*.  Internet was out campus-wide.  The website was down.  The phones were down.  You couldn't even use the printers.  Regis University was unreachable, completely offline, and new Freshmen were finishing up getting packed and ready to move into the dorms *the next day*.  This is what ground zero at a cyber-disaster looks like.
@@ -32,7 +32,7 @@ However, the amount demanded was certainly much higher (probably in the 100s of 
 
 The hackers had planned to install ransomware on Regis' systems, but had strategically waited until this crucial time to enable the ransomware in order to pressure Regis into paying up.  Unfortunately for these not-so-well-educated hackers, they didn't know that the overwhelming majority of US organizations [do not pay the ransom](https://www.malwarebytes.com/pdf/white-papers/UnderstandingTheDepthOfRansomwareIntheUS.pdf) for ransomware.
 
-![ransom paid bar chart](ransom_paid_stats.png)
+![ransom paid bar chart](/images/ransom_paid_stats.png)
 Source: https://www.malwarebytes.com/pdf/white-papers/UnderstandingTheDepthOfRansomwareIntheUS.pdf
 
 They should've looked at the data and ransomed those softy Canadians instead.  Who knows, maybe Canadian companies would even apologize to the ransomers during the process.  Actually, from what I've read, it can be cheaper for an organization to pay the ransom to get on with business.  But then you are encouraging and funding criminals.  Also, sometimes the decryption software reportedly doesn't work, meaning you paid the ransom but you didn't get your files back.  Obviously, the best solution is to have good cybersecurity to start with and avoid ransomware in the first place.
@@ -138,28 +138,28 @@ Since the attack, phishing emails have decreased substantially.  It's not clear 
 
 Let's look at how Microsoft's password strength meter works (at least the one Regis is using from MS's cloud solutions).  Take for example, the password "microsoft is incompetent with security".  Microsoft rates this password as "weak", while most other password evaluators rank it as strong.  Here is a screenshot of Microsoft's password evaluator:
 
-![MS password evaluator](images/ms_password_evaluator.png)
+![MS password evaluator](/images/ms_password_evaluator.png)
 
 Meanwhile, other password evaluators, such as [rumkin.com](http://www.rumkin.com), LastPass, and My1Pass all show a very strong password:
 
-![My1Pass](images/my1pass.png)
+![My1Pass](/images/my1pass.png)
 
-![rumkin](images/rumkin.png)
+![rumkin](/images/rumkin.png)
 
 Of course, these sorts of things always remind me of the related [xkcd comic](https://xkcd.com/936/):
 
-![xkcd password](images/password_strength.png)
+![xkcd password](/images/password_strength.png)
 
 What's worse than the fact that Microsoft under-rates strong passwords just because they are all lowercase is that Microsoft *overrates* weak passwords because they have a mix of digits and cased letters.  For example, the password "Abc123!!" is rated strong by Microsoft, but weak by almost everyone else:
 
 Microsoft:
-![MS password](images/ms_pw.png)
+![MS password](/images/ms_pw.png)
 
 My1Pass:
-![weak password](images/weak_pw.png)
+![weak password](/images/weak_pw.png)
 
 Rumkin:
-![weak password rumkin](images/weak_pw_rumkin.png)
+![weak password rumkin](/images/weak_pw_rumkin.png)
 
 Only one site I checked ranked it as strong (http://www.passwordmeter.com/).  However, based on the small number of characters (8), this password should be considered weak no matter what in my opinion.
 
